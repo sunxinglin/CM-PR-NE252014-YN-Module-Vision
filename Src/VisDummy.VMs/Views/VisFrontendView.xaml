@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="VisDummy.VMs.Views.VisFrontendView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:VisDummy.VMs.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:VMControls.WPF.Release;assembly=VMControls.WPF.Release"
+             d:DesignHeight="450"
+             d:DesignWidth="800"
+             Background="AliceBlue"
+             mc:Ignorable="d">
+    <Grid x:Name="vmFrontendGrid">
+        <vm:VmFrontendControl x:Name="vmFrontendCtrl" />
+    </Grid>
+</UserControl>

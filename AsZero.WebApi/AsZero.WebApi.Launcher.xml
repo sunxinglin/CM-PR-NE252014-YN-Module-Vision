@@ -1,0 +1,13 @@
+<service>
+  <id>AsZero.WebApi</id>
+  <name>AsZero.WebApi</name>
+  <description></description>
+  <env name="ASPNETCore_" value="%BASE%"/>
+  <executable>AsZero.WebApi.exe</executable>
+  <!-- 
+	  <depend>postgresql-x64-15</depend>
+	  <depend>MySQL</depend>
+  -->
+  <arguments></arguments>
+  <logmode>rotate</logmode>
+</service>

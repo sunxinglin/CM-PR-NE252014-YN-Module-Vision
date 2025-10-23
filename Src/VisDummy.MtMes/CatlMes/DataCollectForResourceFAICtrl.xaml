@@ -1,0 +1,210 @@
+﻿<UserControl
+    x:Class="VisDummy.MtMes.CatlMes.DataCollectForResourceFAICtrl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:servicemodel="clr-namespace:System.ServiceModel;assembly=System.ServiceModel.Http"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    d:DesignHeight="650"
+    d:DesignWidth="800"
+    Background="White"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <ObjectDataProvider
+            x:Key="BasicHttpSecurityMode"
+            MethodName="GetValues"
+            ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="servicemodel:BasicHttpSecurityMode" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.Resources>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="FontFamily" Value="NSimSun" />
+                <Setter Property="HorizontalAlignment" Value="Left" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="Width" Value="400" />
+            </Style>
+
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="HorizontalAlignment" Value="Right" />
+                <Setter Property="FontFamily" Value="NSimSun" />
+            </Style>
+
+            <Style TargetType="TextBox">
+                <Setter Property="HorizontalAlignment" Value="Left" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+                <Setter Property="MinWidth" Value="400" />
+                <Setter Property="Height" Value="50" />
+                <Setter Property="FontFamily" Value="NSimSun" />
+                <Setter Property="FontSize" Value="18" />
+            </Style>
+            <Style TargetType="ComboBox">
+                <Setter Property="Width" Value="400" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+                <Setter Property="Height" Value="50" />
+            </Style>
+            <Style TargetType="PasswordBox">
+                <Setter Property="Width" Value="400" />
+                <Setter Property="VerticalContentAlignment" Value="Center" />
+                <Setter Property="Height" Value="50" />
+            </Style>
+            <Style TargetType="StackPanel">
+                <Setter Property="Margin" Value="5" />
+            </Style>
+        </Grid.Resources>
+
+        <ScrollViewer Grid.Row="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="2*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <GroupBox
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="4"
+                    FontSize="18"
+                    Header="{Binding [连接参数], Source={x:Static lang:LanguageManager.Instance}}">
+                    <StackPanel Margin="18" Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="MES URL" />
+                            <TextBox x:Name="url" />
+                            <!--<TextBlock Text="MES服务器WSDL" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Timeout" />
+                            <TextBox x:Name="timeout" />
+                            <!--<TextBlock Text="WS服务器连接超时设置 /mss" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="UserName" />
+                            <TextBox x:Name="userName" />
+                            <!--<TextBlock Text="连接服务器的用户名" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Password" />
+                            <PasswordBox x:Name="passwdBox" />
+                            <!--<TextBlock Text="连接服务器的密码" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="BasicHttpSecurityMode" />
+                            <ComboBox x:Name="securitymode" ItemsSource="{Binding Source={StaticResource BasicHttpSecurityMode}}" />
+                            <!--<TextBlock Text="HTTP安全模式" />-->
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+
+                <GroupBox
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="4"
+                    FontSize="18"
+                    Header="{Binding [接口参数], Source={x:Static lang:LanguageManager.Instance}}">
+                    <StackPanel Margin="18" Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Site" />
+                            <TextBox x:Name="site" />
+                            <!--<TextBlock Text="设备所在的站点" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="User" />
+                            <TextBox x:Name="user" />
+                            <!--<TextBlock Text="操作用户" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Operation" />
+                            <TextBox x:Name="operation" />
+                            <!--<TextBlock Text="工位" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="OperationRevision" />
+                            <TextBox x:Name="operationRevision" />
+                            <!--<TextBlock Text="工位版本" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="DcGroup" />
+                            <TextBox x:Name="dcgroup" />
+                            <TextBlock Text="" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="DcGroupRevision" />
+                            <TextBox x:Name="dcgrouprevision" />
+                            <!--<TextBlock Text="" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Resource" />
+                            <TextBox x:Name="resource" />
+                            <!--<TextBlock Text="资源" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="DcMode" />
+                            <TextBox x:Name="dcmode" />
+                            <!--<TextBlock Text="" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Material" />
+                            <TextBox x:Name="material" />
+                            <!--<TextBlock Text="" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="MaterialRevision" />
+                            <TextBox x:Name="materialRevision" />
+                            <!--<TextBlock Text="" />-->
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="DcGroupSequence" />
+                            <TextBox x:Name="dcGroupSequence" />
+                            <!--<TextBlock Text="" />-->
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+            </Grid>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button
+                x:Name="save"
+                Width="100"
+                Height="60"
+                Margin="20"
+                Background="Salmon"
+                CommandParameter="{Binding ElementName=passwdBox}"
+                Content="{Binding [保存], Source={x:Static lang:LanguageManager.Instance}}"
+                FontSize="24" />
+            <Button
+                x:Name="reload"
+                Width="100"
+                Height="60"
+                Margin="20"
+                Background="OldLace"
+                CommandParameter="{Binding ElementName=passwdBox}"
+                Content="{Binding [刷新], Source={x:Static lang:LanguageManager.Instance}}"
+                FontSize="24"
+                Foreground="Red" />
+        </StackPanel>
+
+    </Grid>
+</UserControl>

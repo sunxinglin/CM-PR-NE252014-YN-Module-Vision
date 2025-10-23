@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>Latest</LangVersion>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisionConfigFolder>Vision-Configurations</VisionConfigFolder>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VisDummy.Lang\VisDummy.Lang.csproj" />
+    <ProjectReference Include="..\VisDummy.Shared\VisDummy.Shared.csproj" />
+    <ProjectReference Include="..\VisDummy.WPF\VisDummy.WPF.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Logo\logo-bar.png" />
+    <Resource Include="Resources\Logo\logo-bar_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SplashScreen Include="backgroud.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </SplashScreen>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="vision-config.json" TargetPath="%(RecursiveDir)%(Filename)%(Extension)">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="..\.paket\Paket.Restore.targets" />
+</Project>

@@ -1,0 +1,12 @@
+FSharp.Core
+MaterialDesignColors
+MaterialDesignThemes
+MediatR
+ReactiveUI
+ReactiveUI.Fody
+ReactiveUI.WPF
+Splat
+StdUnit.One
+StdUnit.One.Shared
+MediatR.Extensions.Microsoft.DependencyInjection
+Newtonsoft.Json

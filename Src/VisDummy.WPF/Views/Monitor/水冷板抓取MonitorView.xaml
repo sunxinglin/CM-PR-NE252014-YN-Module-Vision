@@ -1,0 +1,73 @@
+﻿<UserControl
+    x:Class="VisDummy.WPF.Views.Monitor.水冷板抓取MonitorView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:common="clr-namespace:VisDummy.WPF.Common"
+    xmlns:ctrl="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+    xmlns:local="clr-namespace:VisDummy.WPF.Views.Monitor"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    d:DesignHeight="1080"
+    d:DesignWidth="1920"
+    mc:Ignorable="d">
+    <ScrollViewer>
+        <StackPanel>
+
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="{Binding [通用状态], Source={x:Static lang:LanguageManager.Instance}}">
+                <ctrl:HeartCtrl x:Name="heart" />
+            </GroupBox>
+
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="{Binding [机器人1定位引导], Source={x:Static lang:LanguageManager.Instance}}">
+                <ctrl:水冷板抓取定位引导Ctrl x:Name="station1定位引导" />
+            </GroupBox>
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="{Binding [机器人2定位引导], Source={x:Static lang:LanguageManager.Instance}}">
+                <ctrl:水冷板抓取定位引导Ctrl x:Name="station2定位引导" />
+            </GroupBox>
+
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="机器人1校验">
+                <ctrl:水冷板抓取校验Ctrl x:Name="station1校验" />
+            </GroupBox>
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="机器人2校验">
+                <ctrl:水冷板抓取校验Ctrl x:Name="station2校验" />
+            </GroupBox>
+
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="机器人1自动校准">
+                <ctrl:水冷板抓取自动校准Ctrl x:Name="station1自动校准" />
+            </GroupBox>
+            <GroupBox
+                md:ColorZoneAssist.Background="Black"
+                md:ColorZoneAssist.Foreground="White"
+                md:ColorZoneAssist.Mode="Custom"
+                Header="机器人2自动校准">
+                <ctrl:水冷板抓取自动校准Ctrl x:Name="station2自动校准" />
+            </GroupBox>
+
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

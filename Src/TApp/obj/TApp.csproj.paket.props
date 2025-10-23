@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+        <PaketPropsVersion>6.0.0</PaketPropsVersion>
+        <PaketPropsLoaded>true</PaketPropsLoaded>
+    </PropertyGroup>
+
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND (($(TargetFrameworkIdentifier) == '.NETFramework' And $(TargetFrameworkVersion) == 'v4.7.2') Or ($(TargetFrameworkIdentifier) == '.NETCoreApp' And ($(TargetFrameworkVersion) == 'v8.0' Or ($(TargetFrameworkVersion) == 'v8.0' And '$(TargetPlatformIdentifier)' == 'Windows' And '$(TargetPlatformVersion)' == '10.0.17763.0'))) Or ($(TargetFrameworkIdentifier) == '.NETStandard' And $(TargetFrameworkVersion) == 'v2.0'))">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Fody">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.8</Version>
+        </PackageReference>
+        <PackageReference  Include="FSharp.Core">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0.100</Version>
+        </PackageReference>
+        <PackageReference  Include="Itminus.FSharpExtensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">0.1.7</Version>
+        </PackageReference>
+        <PackageReference  Include="MaterialDesignColors">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.1.4</Version>
+        </PackageReference>
+        <PackageReference  Include="MediatR">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.Cryptography.Internal">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.DataProtection.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.FileSystemGlobbing">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.NETCore.Platforms">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">7.0.4</Version>
+        </PackageReference>
+        <PackageReference  Include="Microsoft.NETFramework.ReferenceAssemblies">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">1.0.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Xaml.Behaviors.Wpf">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">1.1.135</Version>
+        </PackageReference>
+        <PackageReference  Include="MaterialDesignThemes">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.9</Version>
+        </PackageReference>
+        <PackageReference  Include="NETStandard.Library">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.0.3</Version>
+        </PackageReference>
+        <PackageReference  Include="Splat">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">15.2.22</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="StdUnit.Zero.Shared">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">0.2.19</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Collections.Immutable">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.ComponentModel.Annotations">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">5.0</Version>
+        </PackageReference>
+        <PackageReference  Include="System.Drawing.Common">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.10</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Numerics.Vectors">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.5</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Runtime">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.ComponentModel">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Runtime.CompilerServices.Unsafe">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Primitives">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.FileProviders.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.FileProviders.Physical">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Diagnostics.DiagnosticSource">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Security.Principal.Windows">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">5.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Security.AccessControl">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Win32.Registry">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">5.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Text.Encodings.Web">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.IO">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Runtime.Serialization.Primitives">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference  Include="System.Runtime.Serialization.Formatters">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Linq.Expressions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Threading.Tasks.Extensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.6</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Bcl.AsyncInterfaces">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.2</Version>
+        </PackageReference>
+        <PackageReference  Include="MediatR.Extensions.Microsoft.DependencyInjection">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.DependencyInjection">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.IO.Pipelines">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reactive">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.0.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="DynamicData">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0.4</Version>
+        </PackageReference>
+        <PackageReference  Include="Serilog">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Serilog.Formatting.Compact">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Serilog.Sinks.Console">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Serilog.Sinks.Debug">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Serilog.Sinks.File">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">6.0</Version>
+        </PackageReference>
+        <PackageReference  Include="System.ValueTuple">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.5</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.Binder">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.CommandLine">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.EnvironmentVariables">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.FileExtensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Microsoft.Extensions.Options">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Diagnostics.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Hosting.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.Debug">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.EventLog">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Options.ConfigurationExtensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Diagnostics">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Microsoft.Extensions.Http">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.Configuration">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Serilog.Extensions.Logging">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Serilog.Extensions.Hosting">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="StdUnit.One.Shared">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">0.2.20</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Formats.Asn1">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Bcl.Cryptography">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Security.Cryptography.Xml">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Microsoft.AspNetCore.DataProtection">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="System.Text.Json">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.Json">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Configuration.UserSecrets">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.DependencyModel">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.2</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.Console">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Extensions.Logging.EventSource">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="Microsoft.Extensions.Hosting">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference  Include="ReactiveUI">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">20.1.63</Version>
+        </PackageReference>
+        <PackageReference  Include="ReactiveUI.Fody">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">19.5.41</Version>
+        </PackageReference>
+        <PackageReference  Include="ReactiveUI.Validation">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.1.1</Version>
+        </PackageReference>
+        <PackageReference  Include="ReactiveUI.WPF">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">20.1.63</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Serilog.Settings.Configuration">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.4</Version>
+        </PackageReference>
+        <PackageReference  Include="Serilog.AspNetCore">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0.3</Version>
+        </PackageReference>
+        <PackageVersion Include="Fody">
+            <Version>6.8</Version>
+        </PackageVersion>
+        <PackageVersion Include="FSharp.Core">
+            <Version>9.0.100</Version>
+        </PackageVersion>
+        <PackageVersion Include="Itminus.FSharpExtensions">
+            <Version>0.1.7</Version>
+        </PackageVersion>
+        <PackageVersion Include="MaterialDesignColors">
+            <Version>2.1.4</Version>
+        </PackageVersion>
+        <PackageVersion Include="MediatR">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.Cryptography.Internal">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.DataProtection.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.FileSystemGlobbing">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.NETCore.Platforms">
+            <Version>7.0.4</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.NETFramework.ReferenceAssemblies">
+            <Version>1.0.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Xaml.Behaviors.Wpf">
+            <Version>1.1.135</Version>
+        </PackageVersion>
+        <PackageVersion Include="MaterialDesignThemes">
+            <Version>4.9</Version>
+        </PackageVersion>
+        <PackageVersion Include="NETStandard.Library">
+            <Version>2.0.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="Splat">
+            <Version>15.2.22</Version>
+        </PackageVersion>
+        <PackageVersion Include="StdUnit.Zero.Shared">
+            <Version>0.2.19</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Collections.Immutable">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.ComponentModel.Annotations">
+            <Version>5.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Drawing.Common">
+            <Version>8.0.10</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Numerics.Vectors">
+            <Version>4.5</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime">
+            <Version>4.3.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.ComponentModel">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime.CompilerServices.Unsafe">
+            <Version>6.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Primitives">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.FileProviders.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.FileProviders.Physical">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Diagnostics.DiagnosticSource">
+            <Version>8.0.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Security.Principal.Windows">
+            <Version>5.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Security.AccessControl">
+            <Version>6.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Win32.Registry">
+            <Version>5.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Text.Encodings.Web">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.IO">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime.Serialization.Primitives">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime.Serialization.Formatters">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Linq.Expressions">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Threading.Tasks.Extensions">
+            <Version>4.6</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Bcl.AsyncInterfaces">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+            <Version>8.0.2</Version>
+        </PackageVersion>
+        <PackageVersion Include="MediatR.Extensions.Microsoft.DependencyInjection">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.DependencyInjection">
+            <Version>8.0.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.IO.Pipelines">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reactive">
+            <Version>6.0.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="DynamicData">
+            <Version>9.0.4</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog">
+            <Version>4.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Formatting.Compact">
+            <Version>2.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Sinks.Console">
+            <Version>6.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Sinks.Debug">
+            <Version>2.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Sinks.File">
+            <Version>6.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.ValueTuple">
+            <Version>4.5</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.Binder">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.CommandLine">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.EnvironmentVariables">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.FileExtensions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Options">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Diagnostics.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.Debug">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.EventLog">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Diagnostics">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Http">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.Configuration">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Extensions.Logging">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Extensions.Hosting">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="StdUnit.One.Shared">
+            <Version>0.2.20</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Formats.Asn1">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Bcl.Cryptography">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Security.Cryptography.Xml">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.DataProtection">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Text.Json">
+            <Version>9.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.Json">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Configuration.UserSecrets">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.DependencyModel">
+            <Version>8.0.2</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.Console">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Logging.EventSource">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.Extensions.Hosting">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="ReactiveUI">
+            <Version>20.1.63</Version>
+        </PackageVersion>
+        <PackageVersion Include="ReactiveUI.Fody">
+            <Version>19.5.41</Version>
+        </PackageVersion>
+        <PackageVersion Include="ReactiveUI.Validation">
+            <Version>4.1.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="ReactiveUI.WPF">
+            <Version>20.1.63</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.Settings.Configuration">
+            <Version>8.0.4</Version>
+        </PackageVersion>
+        <PackageVersion Include="Serilog.AspNetCore">
+            <Version>8.0.3</Version>
+        </PackageVersion>
+    </ItemGroup>
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND (($(TargetFrameworkIdentifier) == '.NETCoreApp' And ($(TargetFrameworkVersion) == 'v8.0' Or ($(TargetFrameworkVersion) == 'v8.0' And '$(TargetPlatformIdentifier)' == 'Windows' And '$(TargetPlatformVersion)' == '10.0.17763.0'))) Or ($(TargetFrameworkIdentifier) == '.NETStandard' And $(TargetFrameworkVersion) == 'v2.0'))">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.NETCore.Targets">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">1.1.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Collections">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Diagnostics.Debug">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Globalization">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.Primitives">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Runtime.Extensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Diagnostics.EventLog">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Text.Encoding">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Threading.Tasks">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.Emit.ILGeneration">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.Emit">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.Emit.Lightweight">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.Extensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Reflection.TypeExtensions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Resources.ResourceManager">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Linq">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Threading">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.ObjectModel">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Security.Cryptography.Pkcs">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">9.0</Version>
+        </PackageReference>
+        <PackageVersion Include="Microsoft.NETCore.Targets">
+            <Version>1.1.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Collections">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Diagnostics.Debug">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Globalization">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.Primitives">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime.Extensions">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Diagnostics.EventLog">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Text.Encoding">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Threading.Tasks">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.Emit.ILGeneration">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.Emit">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.Emit.Lightweight">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.Extensions">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Reflection.TypeExtensions">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Resources.ResourceManager">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Linq">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Threading">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.ObjectModel">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Security.Cryptography.Pkcs">
+            <Version>9.0</Version>
+        </PackageVersion>
+    </ItemGroup>
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND ($(TargetFrameworkIdentifier) == '.NETFramework' And $(TargetFrameworkVersion) == 'v4.7.2')">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.NETFramework.ReferenceAssemblies.net472">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">1.0.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Runtime.InteropServices.RuntimeInformation">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageVersion Include="Microsoft.NETFramework.ReferenceAssemblies.net472">
+            <Version>1.0.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Runtime.InteropServices.RuntimeInformation">
+            <Version>4.3</Version>
+        </PackageVersion>
+    </ItemGroup>
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND ($(TargetFrameworkIdentifier) == '.NETCoreApp' And ($(TargetFrameworkVersion) == 'v8.0' Or ($(TargetFrameworkVersion) == 'v8.0' And '$(TargetPlatformIdentifier)' == 'Windows' And '$(TargetPlatformVersion)' == '10.0.17763.0')))">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.Win32.SystemEvents">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageVersion Include="Microsoft.Win32.SystemEvents">
+            <Version>8.0</Version>
+        </PackageVersion>
+    </ItemGroup>
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND (($(TargetFrameworkIdentifier) == '.NETFramework' And $(TargetFrameworkVersion) == 'v4.7.2') Or ($(TargetFrameworkIdentifier) == '.NETStandard' And $(TargetFrameworkVersion) == 'v2.0'))">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Buffers">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.5.1</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Memory">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.5.5</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.Http.Features">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.2</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.Http.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.2</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Threading.Channels">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">8.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.Hosting.Server.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.2</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="Microsoft.AspNetCore.Hosting.Abstractions">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">2.2</Version>
+        </PackageReference>
+        <PackageVersion Include="System.Buffers">
+            <Version>4.5.1</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Memory">
+            <Version>4.5.5</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.Http.Features">
+            <Version>2.2</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.Http.Abstractions">
+            <Version>2.2</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Threading.Channels">
+            <Version>8.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.Hosting.Server.Abstractions">
+            <Version>2.2</Version>
+        </PackageVersion>
+        <PackageVersion Include="Microsoft.AspNetCore.Hosting.Abstractions">
+            <Version>2.2</Version>
+        </PackageVersion>
+    </ItemGroup>
+    <ItemGroup Condition="($(DesignTimeBuild) == true) AND ($(TargetFrameworkIdentifier) == '.NETStandard' And $(TargetFrameworkVersion) == 'v2.0')">
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Diagnostics.Contracts">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Security.Cryptography.Cng">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">5.0</Version>
+        </PackageReference>
+        <PackageReference Condition=" '$(ManagePackageVersionsCentrally)' != 'true' " Include="System.Dynamic.Runtime">
+            <Version Condition=" '$(ManagePackageVersionsCentrally)' != 'true' ">4.3</Version>
+        </PackageReference>
+        <PackageVersion Include="System.Diagnostics.Contracts">
+            <Version>4.3</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Security.Cryptography.Cng">
+            <Version>5.0</Version>
+        </PackageVersion>
+        <PackageVersion Include="System.Dynamic.Runtime">
+            <Version>4.3</Version>
+        </PackageVersion>
+    </ItemGroup>
+</Project>

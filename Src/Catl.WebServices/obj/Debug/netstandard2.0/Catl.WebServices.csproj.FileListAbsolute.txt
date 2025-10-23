@@ -1,0 +1,64 @@
+D:\MES\Code\vision-code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\MES\Code\vision-code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\vision-code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.sourcelink.json
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\vision-code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\视觉\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+E:\视觉\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+E:\视觉\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.sourcelink.json
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+E:\视觉\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Code\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\MES\Code\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\Vision\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\Vision\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\MES\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.deps.json
+D:\MES\Code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\Src\Catl.WebServices\bin\Debug\netstandard2.0\Catl.WebServices.pdb
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.AssemblyReference.cache
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfoInputs.cache
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.AssemblyInfo.cs
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.sourcelink.json
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.dll
+D:\MES\Code\Src\Catl.WebServices\obj\Debug\netstandard2.0\Catl.WebServices.pdb

@@ -1,0 +1,11 @@
+FSharp.Core
+Itminus.FSharpExtensions
+MediatR
+Microsoft.Extensions.Hosting
+Microsoft.Extensions.Options
+Microsoft.Extensions.Http
+
+System.Text.Json
+NETStandard.Library
+Microsoft.NETFramework.ReferenceAssemblies
+Catl.HostComputer.CommonServices

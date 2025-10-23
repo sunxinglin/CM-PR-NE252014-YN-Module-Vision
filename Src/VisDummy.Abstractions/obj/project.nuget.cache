@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BB6JXxi6P/WoXMPII5AT6TYFFDzzpQsVwoXHiBQD/Ar7M25nIbwmr1mKTf36VJ7kiCQnDwjDmXRn5qYz511FZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\VisDummy.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xinglin.sun\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512",
+    "C:\\Users\\xinglin.sun\\.nuget\\packages\\itminus.fsharpextensions\\0.1.7\\itminus.fsharpextensions.0.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

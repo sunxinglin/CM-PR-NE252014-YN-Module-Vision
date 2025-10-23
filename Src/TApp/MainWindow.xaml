@@ -1,0 +1,284 @@
+﻿<Window
+    x:Class="TApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:common="clr-namespace:VisDummy.WPF.Common;assembly=VisDummy.WPF"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+    xmlns:local="clr-namespace:TApp"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:reactiveui="http://reactiveui.net"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    Name="self"
+    Width="800"
+    Height="450"
+    Closed="Window_Closed"
+    Closing="Window_Closing"
+    WindowStartupLocation="CenterScreen"
+    WindowState="Maximized"
+    mc:Ignorable="d">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="bool2Vis" />
+        <ObjectDataProvider
+            x:Key="LanguagesEnum"
+            MethodName="GetValues"
+            ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="lang:LanguageEnum" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel
+            Grid.Row="0"
+            Grid.Column="0"
+            Grid.ColumnSpan="2">
+            <Grid Height="80">
+                <Grid.Background>
+                    <SolidColorBrush Color="#FF1E3853" />
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="80" />
+                </Grid.ColumnDefinitions>
+                <Image
+                    Grid.Column="0"
+                    Width="200"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Source="/Resources/Logo/logo-bar_white.png" />
+                <TextBlock
+                    x:Name="txtTitle"
+                    Grid.Column="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    FontSize="32px"
+                    FontWeight="Bold"
+                    Foreground="White" />
+                <ComboBox
+                    x:Name="langSelect"
+                    Grid.Column="2"
+                    Margin="0,0,10,0"
+                    VerticalAlignment="Center"
+                    ItemsSource="{Binding Source={StaticResource LanguagesEnum}}"
+                    SelectionChanged="LangSelect_SelectionChanged"
+                    Style="{x:Null}" />
+            </Grid>
+
+            <!--  信息栏  -->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Grid>
+                    <Border
+                        Grid.Column="0"
+                        Background="AliceBlue"
+                        BorderThickness="2"
+                        MouseLeftButtonDown="ToggleLeftNavBarShowHiden">
+                        <md:PackIcon
+                            Name="iconLeftNavBar"
+                            Width="40"
+                            Height="40"
+                            VerticalAlignment="Center"
+                            Kind="Menu" />
+                    </Border>
+                </Grid>
+
+                <!--  设备名、登录名  -->
+                <StackPanel
+                    Grid.Column="1"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Orientation="Horizontal">
+                    <StackPanel.Resources>
+                        <Style TargetType="Label">
+                            <Setter Property="FontSize" Value="12px" />
+                            <Setter Property="FontFamily" Value="NSimSun" />
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                            <Setter Property="Width" Value="80" />
+                        </Style>
+
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="12px" />
+                            <Setter Property="FontFamily" Value="NSimSun" />
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                            <Setter Property="Width" Value="100" />
+                        </Style>
+                        <Style BasedOn="{StaticResource MaterialDesignOutlinedComboBox}" TargetType="ComboBox">
+                            <Setter Property="Padding" Value="7" />
+                        </Style>
+                    </StackPanel.Resources>
+                    <Label Content="{Binding [设备ID], Source={x:Static lang:LanguageManager.Instance}}" />
+                    <TextBlock x:Name="txtEquipId" Text="EquipId" />
+                    <Label Content="{Binding [操作者], Source={x:Static lang:LanguageManager.Instance}}" />
+                    <TextBlock x:Name="txtUserName" Text="UserName" />
+                    <Label Content="{Binding [已登录时间], Source={x:Static lang:LanguageManager.Instance}}" />
+                    <TextBlock x:Name="txtRemainingTime" Text="0" />
+
+                    <!--<ComboBox
+                        x:Name="langSelect"
+                        ItemsSource="{Binding Source={StaticResource LanguagesEnum}}"
+                        SelectionChanged="LangSelect_SelectionChanged" />-->
+                </StackPanel>
+            </Grid>
+            <Grid Height="8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.Background>
+                    <SolidColorBrush Color="#FF1E3853" />
+                </Grid.Background>
+            </Grid>
+        </StackPanel>
+
+
+        <Border
+            x:Name="left"
+            Grid.Row="1"
+            Grid.Column="0"
+            Width="auto"
+            BorderBrush="CadetBlue"
+            BorderThickness="0"
+            DockPanel.Dock="Left">
+            <Menu>
+                <Menu.Resources>
+                    <Style TargetType="MenuItem">
+                        <Setter Property="Background" Value="#FF00FFFF" />
+                        <Setter Property="FontFamily" Value="微软雅黑" />
+                        <Setter Property="FontSize" Value="18pt" />
+                        <Setter Property="FontWeight" Value="Bold" />
+                        <Setter Property="Height" Value="50" />
+                        <Setter Property="Padding" Value="0,0,10,0" />
+                    </Style>
+                </Menu.Resources>
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel Orientation="Vertical" />
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+                <MenuItem
+                    x:Name="menuUserMgmt"
+                    Click="MenuClick_UserMgmt"
+                    Header="{Binding [用户管理], Source={x:Static lang:LanguageManager.Instance}}"
+                    Icon="{md:PackIcon Kind=User}" />
+                <MenuItem
+                    x:Name="menuSettings"
+                    Click="MenuClick_ParamsMgmt"
+                    Header="{Binding [参数设置], Source={x:Static lang:LanguageManager.Instance}}"
+                    Icon="{md:PackIcon Kind=Set}" />
+                <MenuItem
+                    x:Name="menuRealtime"
+                    Click="MenuClick_Realtime"
+                    Header="{Binding [生产管理], Source={x:Static lang:LanguageManager.Instance}}"
+                    Icon="{md:PackIcon Kind=Historic}" />
+                <MenuItem
+                    x:Name="menuDbgTool"
+                    Click="MenuClick_DebugTools"
+                    Header="{Binding [调试工具], Source={x:Static lang:LanguageManager.Instance}}"
+                    Icon="{md:PackIcon Kind=Toolbox}" />
+                <MenuItem
+                    x:Name="menuLog"
+                    Click="MenuClick_LogSearch"
+                    Header="{Binding [日志查询], Source={x:Static lang:LanguageManager.Instance}}"
+                    Icon="{md:PackIcon Kind=MathLog}" />
+            </Menu>
+        </Border>
+
+
+        <Grid
+            Grid.Row="1"
+            Grid.Column="1"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Stretch">
+            <reactiveui:RoutedViewHost
+                x:Name="routedHost"
+                Margin="0,0,0,0"
+                HorizontalContentAlignment="Stretch"
+                VerticalContentAlignment="Stretch"
+                DockPanel.Dock="Left"
+                ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                ScrollViewer.VerticalScrollBarVisibility="Visible" />
+        </Grid>
+
+
+        <Border
+            Grid.Row="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Background="AliceBlue"
+            BorderBrush="DarkGray"
+            BorderThickness="0,1,0,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Orientation="Horizontal">
+                    <StackPanel.Resources>
+                        <Style TargetType="Label">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Padding" Value="0,0,20,0" />
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+                    </StackPanel.Resources>
+
+                    <Label Content="CPU使用率：" />
+                    <TextBlock x:Name="CPU" />
+                    <Label Content="磁盘剩余率：" />
+                    <TextBlock x:Name="Disk" />
+                    <Label Content="内存使用率：" />
+                    <TextBlock x:Name="Memory" />
+                </StackPanel>
+
+                <ItemsControl
+                    x:Name="cameraItems"
+                    Grid.Column="1"
+                    Margin="0,0,5,0"
+                    HorizontalAlignment="Right">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <common:LedSwitchCtrl
+                                Padding="10,0,0,0"
+                                IsChecked="{Binding Value}"
+                                OffColor="Gray"
+                                OnColor="Green"
+                                Tip="{Binding Key}" />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+            </Grid>
+        </Border>
+
+
+    </Grid>
+</Window>

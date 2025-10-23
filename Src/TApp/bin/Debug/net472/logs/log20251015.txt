@@ -1,0 +1,1736 @@
+2025-10-15 17:14:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:16 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:16 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:30 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:30 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:30 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:31 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:31 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:31 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:33 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:33 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:33 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:34 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:34 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:34 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:36 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:36 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:37 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:37 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:37 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:38 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:38 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:38 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:39 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:39 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:39 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:40 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:40 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:40 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:41 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:41 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:41 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:43 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:43 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:44 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:44 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:44 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:45 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:45 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:45 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:46 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:46 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:46 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:47 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:47 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:47 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:48 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:48 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:48 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:50 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:50 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:50 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:51 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:51 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:51 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:52 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:52 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:54 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:54 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:54 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:55 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:55 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:55 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:57 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:57 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:57 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:58 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:58 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:58 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:59 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:59 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:14:59 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:00 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:00 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:00 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:01 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:01 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:01 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:02 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:02 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:02 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:03 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:03 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:04 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:04 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:04 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:05 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:05 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:05 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:06 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:06 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:06 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:07 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:07 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:07 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:09 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:09 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:09 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:11 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:11 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:11 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:12 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:12 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:12 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:16 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:16 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:16 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: CPU : Item not available：OsSockerError=0;IsoTcpError=None;S7Error=12
+   在 Itminus.Protocols.Loading.LoadingScanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\vision-code\Src\VisDummy.Protocols\Loading\PlcScanner.cs:行号 34
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 17:15:45 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 17:15:45 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 17:15:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 17:15:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 17:15:53 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ImagePath:E:\2D存图\正常拍照\原图\NG;ErrMsg:;ErrorCode:5
+2025-10-15 17:17:23 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-15 17:25:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 17:25:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 17:25:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 17:25:28 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ImagePath:E:\2D存图\正常拍照\原图\NG;ErrMsg:;ErrorCode:5
+2025-10-15 17:26:16 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 17:26:16 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 17:26:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 17:26:46 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 17:26:46 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 17:26:49 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ImagePath:E:\2D存图\正常拍照\原图\NG;ErrMsg:;ErrorCode:5
+2025-10-15 17:40:00 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 17:40:00 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 17:40:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 17:40:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 17:40:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 17:40:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:2,BarCode:001CEG80000001F6Y4600232
+2025-10-15 17:43:27 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 17:43:27 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 17:43:49 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 17:43:49 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 18:24:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:30 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:37 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:39 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:44 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:46 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:51 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:24:58 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:00 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:03 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:05 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:07 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:12 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:31 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:33 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:38 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:40 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:45 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:47 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:52 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:54 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:25:59 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:01 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:03 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:06 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:30 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:37 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:39 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:44 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:46 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:51 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:56 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:26:58 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:00 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:03 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:05 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:07 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:10 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:12 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:14 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:17 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:19 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:21 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:24 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:28 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:31 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:33 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:35 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:38 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:40 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:42 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:45 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:47 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:49 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:52 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:27:54 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:06 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:11 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:23 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:26 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:53 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:28:55 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:08 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:11 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:13 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:15 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:18 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:20 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:22 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:25 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:27 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:29 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:32 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:34 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:36 [ERR] [TApp.Handlers.UILogNotificationHandler] Loading: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-15 18:29:37 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 18:29:37 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 18:29:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 18:29:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:29:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 18:29:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ResultStatus:[2]正常-视觉发送电芯抓取点;Foam:2,Floor:4,Column:1,Direction:1,X:1511.637,Y:382.9855,Z:-67.2563,A:179.5945,B:0.2957,C:179.9843
+2025-10-15 18:30:04 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[Loading]{ MST信号为空，将从PLC重新读取...}
+2025-10-15 18:30:04 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[Loading] MST信号已从PLC恢复
+2025-10-15 18:31:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:31:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 18:31:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:2,BarCode:001CEG80000001F6Y4600232
+2025-10-15 18:36:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 18:36:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:36:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 18:36:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ResultStatus:[2]正常-视觉发送电芯抓取点;Foam:2,Floor:4,Column:2,Direction:1,X:1676.819,Y:376.4801,Z:-68.8422,A:179.6514,B:0.0147,C:179.9286
+2025-10-15 18:36:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 18:36:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:36:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 18:36:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:2,BarCode:001CEG80000001F6Y4600232
+2025-10-15 18:53:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 18:53:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:53:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 18:53:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ResultStatus:[2]正常-视觉发送电芯抓取点;Foam:2,Floor:4,Column:2,Direction:1,X:1675.656,Y:377.8981,Z:-68.6947,A:179.7298,B:0.0018,C:179.9353
+2025-10-15 18:53:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 18:53:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 18:53:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 18:53:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:2,BarCode:001CEG80000001F6Y4600230
+2025-10-15 19:12:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:12:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:12:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 19:13:04 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:3D视觉拍照状态码异常,ResultStatus:[8]异常-抓取列电芯数量异常
+2025-10-15 19:16:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:16:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:16:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:0;Position:0
+2025-10-15 19:16:13 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:Failed To Parse 103：状态码异常值:1011,ResultStatus:[0]--
+2025-10-15 19:18:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:18:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:18:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:0;Position:0
+2025-10-15 19:18:15 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照失败：ErrMsg:Failed To Parse 103：状态码异常值:1011,ResultStatus:[0]--
+2025-10-15 19:19:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:19:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:19:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 19:19:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ResultStatus:[2]正常-视觉发送电芯抓取点;Foam:2,Floor:3,Column:1,Direction:2,X:1932.121,Y:-40.2644,Z:-167.4853,A:-90.3745,B:-0.4242,C:179.6822
+2025-10-15 19:24:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:24:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:24:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 19:24:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:1,BarCode:001CEG80000001F714600682
+2025-10-15 19:30:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:30:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:30:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:0
+2025-10-15 19:30:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ResultStatus:[2]正常-视觉发送电芯抓取点;Foam:2,Floor:3,Column:1,Direction:2,X:1928.873,Y:-40.2633,Z:-166.8251,A:-90.0819,B:-0.3502,C:179.6792
+2025-10-15 19:30:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：初始化
+2025-10-15 19:30:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:收到PLC拍照请求
+2025-10-15 19:30:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：正常工作拍照:视觉输入参数：Function:1;Position:1;Batch:1;
+2025-10-15 19:30:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照：拍照成功：ImagePath:E:\2D存图\正常拍照\原图\OK;Direction:1,BarCode:001CEG80000001F714600682

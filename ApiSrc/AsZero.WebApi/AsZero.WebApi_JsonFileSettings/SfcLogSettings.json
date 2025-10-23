@@ -1,0 +1,7 @@
+{
+  "LogFileBaseDir": "D:\\",
+  "LogSheetId": 1,
+  "LogSheetName": "Sheet1",
+  "LogDays": 90,
+  "SemaphoreTimeout": 2000
+}

@@ -1,0 +1,67 @@
+******************************************************
+System memory: 
+	9,991,276K/66,854,392K(14.945%, physical)
+	13,386,860K/76,815,864K(17.427%, virtual)
+
+Current process:
+	[1920,TApp.exe] private byte:2,389,032K
+
+Top:
+	[1920,TApp.exe] private byte:2,389,032K
+	[16908,devenv.exe] private byte:1,065,044K
+	[9888,python.exe] private byte:875,400K
+******************************************************
+
+KERNEL32			2075-06-27 00:13:49
+KERNELBASE			1992-01-02 11:20:21
+clr			2025-05-29 11:02:42
+mscorlib.ni			2025-05-29 10:58:56
+ntdll			1980-11-30 09:08:18
+
+ExceptionCode : CLR_CCR_EXCEPTION
+
+CallStack:
+
+Frame 0: KERNELBASE.dll!  RaiseException
+
+Frame 1: clr.dll!  DllUnregisterServerInternal
+
+Frame 2: clr.dll!  DllUnregisterServerInternal
+
+Frame 3: mscorlib.ni.dll!  Unknow
+
+Frame 4: mscorlib.ni.dll!  Unknow
+
+Frame 5: mscorlib.ni.dll!  Unknow
+
+Frame 6: mscorlib.ni.dll!  Unknow
+
+Frame 7: mscorlib.ni.dll!  Unknow
+
+Frame 8: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 9: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 10: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 11: clr.dll!  GetMetaDataPublicInterfaceFromInternal
+
+Frame 12: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 13: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 14: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 15: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 16: clr.dll!  GetMetaDataPublicInterfaceFromInternal
+
+Frame 17: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 18: clr.dll!  LogHelp_TerminateOnAssert
+
+Frame 19: clr.dll!  DllCanUnloadNowInternal
+
+Frame 20: KERNEL32.dll!  BaseThreadInitThunk
+
+Frame 21: ntdll.dll!  RtlUserThreadStart

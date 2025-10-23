@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\VisDummy.Abstractions.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\VisDummy.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\VisDummy.Abstractions.csproj",
+        "projectName": "VisDummy.Abstractions",
+        "projectPath": "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\VisDummy.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\xinglin.sun\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xinglin.sun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[9.0.100, )"
+            },
+            "Itminus.FSharpExtensions": {
+              "target": "Package",
+              "version": "[0.1.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

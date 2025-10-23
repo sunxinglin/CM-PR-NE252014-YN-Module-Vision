@@ -1,0 +1,91 @@
+2025-10-20 13:51:27 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 13:54:39 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:10:50 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:15:42 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:20:49 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:28:54 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:30:16 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:37:45 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:49:47 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:50:24 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:51:08 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:53:40 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 14:59:12 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:08:13 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:09:48 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:11:40 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:13:24 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:14:29 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:18:34 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:19:10 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:22:47 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:26:09 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:28:28 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:32:15 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:34:14 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:38:27 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:40:00 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:40:56 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:44:08 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:45:07 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:47:11 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:52:46 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:55:37 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:56:37 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:58:02 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 15:58:40 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:00:46 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:01:53 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:04:46 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:05:59 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:07:50 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:09:06 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:10:28 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:11:12 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:14:14 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:15:12 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:18:07 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:19:40 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:20:42 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+ClaimsAuthorizationRequirement:Claim.Type=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/system and Claim.Value is one of the following values: (SysAdmin)"
+2025-10-20 16:20:42 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (RootAdmin)"
+2025-10-20 16:20:42 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+StdUnit.One.WebApi.Auth.Authorizatoin.LogicalOr.LogicalOrRequirement"
+2025-10-20 16:20:42 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" was forbidden.
+2025-10-20 16:20:56 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:23:15 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:23:53 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:24:04 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+ClaimsAuthorizationRequirement:Claim.Type=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/system and Claim.Value is one of the following values: (SysAdmin)"
+2025-10-20 16:24:04 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (RootAdmin)"
+2025-10-20 16:24:04 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+StdUnit.One.WebApi.Auth.Authorizatoin.LogicalOr.LogicalOrRequirement"
+2025-10-20 16:24:04 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" was forbidden.
+2025-10-20 16:24:08 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:39:13 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:41:09 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:42:16 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:44:41 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:46:38 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:48:01 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+ClaimsAuthorizationRequirement:Claim.Type=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/system and Claim.Value is one of the following values: (SysAdmin)"
+2025-10-20 16:48:01 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (RootAdmin)"
+2025-10-20 16:48:01 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+StdUnit.One.WebApi.Auth.Authorizatoin.LogicalOr.LogicalOrRequirement"
+2025-10-20 16:48:01 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" was forbidden.
+2025-10-20 16:48:05 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 16:55:11 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 17:00:02 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+ClaimsAuthorizationRequirement:Claim.Type=http://schemas.xmlsoap.org/ws/2005/05/identity/claims/system and Claim.Value is one of the following values: (SysAdmin)"
+2025-10-20 17:00:02 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (RootAdmin)"
+2025-10-20 17:00:02 [INF] [Microsoft.AspNetCore.Authorization.DefaultAuthorizationService] Authorization failed. "These requirements were not met:
+StdUnit.One.WebApi.Auth.Authorizatoin.LogicalOr.LogicalOrRequirement"
+2025-10-20 17:00:02 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" was forbidden.
+2025-10-20 17:00:13 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 17:02:28 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 17:05:01 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-20 17:13:05 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.

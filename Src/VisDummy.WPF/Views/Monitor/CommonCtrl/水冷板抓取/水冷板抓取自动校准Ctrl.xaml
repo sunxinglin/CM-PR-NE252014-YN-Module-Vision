@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="VisDummy.WPF.Views.Monitor.CommonCtrl.水冷板抓取自动校准Ctrl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:common="clr-namespace:VisDummy.WPF.Common"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+             xmlns:local="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             x:Name="ele"
+             d:DesignHeight="450"
+             d:DesignWidth="800"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <Style BasedOn="{StaticResource MaterialDesignTextBox}" TargetType="TextBox">
+            <Setter Property="Width" Value="40" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Height" Value="30" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="Padding" Value="10,0" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    Height="40"
+                    Orientation="Horizontal">
+            <common:LedSwitchCtrl IsChecked="{Binding DevMsg.Trigger, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Orange"
+                                  Tip="{Binding [视觉工作拍照请求], Source={x:Static lang:LanguageManager.Instance}}" />
+            <Label Content="{Binding [功能号], Source={x:Static lang:LanguageManager.Instance}}" />
+            <TextBlock Width="50" Text="{Binding DevMsg.Function, ElementName=ele}" />
+            <Label Content="位置序号" />
+            <TextBlock Width="50" Text="{Binding DevMsg.Function, ElementName=ele}" />
+            <Label Content="X" />
+            <TextBlock Width="100" Text="{Binding DevMsg.Function, ElementName=ele}" />
+            <Label Content="Y" />
+            <TextBlock Width="100" Text="{Binding DevMsg.Function, ElementName=ele}" />
+            <Label Content="A" />
+            <TextBlock Width="100" Text="{Binding DevMsg.Function, ElementName=ele}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1"
+                    Height="40"
+                    Orientation="Horizontal">
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.Ack, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Orange"
+                                  Tip="{Binding [视觉工作拍照响应], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.AckOk, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Green"
+                                  Tip="{Binding [响应OK], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.AckNg, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="{Binding [响应NG], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.找特征点NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="找特征点NG" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.像素精度NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="像素精度NG" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.测距NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="测距NG" />
+            <common:LedSwitchCtrl IsChecked="{Binding MstMsg.视觉流程NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="视觉流程NG" />
+        </StackPanel>
+
+    </Grid>
+</UserControl>

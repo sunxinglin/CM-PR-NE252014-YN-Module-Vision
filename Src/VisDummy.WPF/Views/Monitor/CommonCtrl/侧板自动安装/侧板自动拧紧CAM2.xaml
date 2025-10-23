@@ -1,0 +1,122 @@
+﻿<UserControl x:Class="VisDummy.WPF.Views.Monitor.CommonCtrl.侧板自动拧紧CAM2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:common="clr-namespace:VisDummy.WPF.Common"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+             xmlns:local="clr-namespace:VisDummy.WPF.Views.Monitor.CommonCtrl"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             x:Name="ele"
+             d:DesignWidth="800"
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <Style BasedOn="{StaticResource MaterialDesignTextBox}" TargetType="TextBox">
+            <Setter Property="Width" Value="40" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Height" Value="30" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+        <Style BasedOn="{StaticResource MaterialDesignTextBlock}" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="FontFamily" Value="NSimSun" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Margin" Value="2" />
+            <Setter Property="Padding" Value="10,0" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    Height="40"
+                    Orientation="Horizontal">
+            <common:LedSwitchCtrl IsChecked="{Binding Dev_PhotoREQ, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Orange"
+                                  Tip="{Binding [视觉工作拍照请求], Source={x:Static lang:LanguageManager.Instance}}" />
+            <Label Content="{Binding [托盘号], Source={x:Static lang:LanguageManager.Instance}}" />
+            <TextBlock Width="100" Text="{Binding DevMsg.Flag.RFID, ElementName=ele}" />
+        </StackPanel>
+        <StackPanel Grid.Row="1"
+             Height="40"
+             Orientation="Horizontal">
+            <Label Grid.Column="0" Content="X" />
+            <TextBlock Width="100" Text="{Binding Dev_PositionX, ElementName=ele}" />
+            <Label Grid.Column="0" Content="Y" />
+            <TextBlock Width="100" Text="{Binding Dev_PositionY, ElementName=ele}" />
+            <Label Grid.Column="0" Content="Z" />
+            <TextBlock Width="100" Text="{Binding Dev_PositionZ, ElementName=ele}" />
+            <Label Grid.Column="0" Content="A" />
+            <TextBlock Width="100" Text="{Binding Dev_PositionA, ElementName=ele}" />
+        </StackPanel>
+        <StackPanel Grid.Row="2"
+                    Height="40"
+                    Orientation="Horizontal">
+            <common:LedSwitchCtrl IsChecked="{Binding Reply, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Orange"
+                                  Tip="{Binding [视觉工作拍照响应], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding Response_Ok, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Green"
+                                  Tip="{Binding [响应OK], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding Response_Ng, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="{Binding [响应NG], Source={x:Static lang:LanguageManager.Instance}}" />
+            <common:LedSwitchCtrl IsChecked="{Binding 特征点NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="特征点NG" />
+            <common:LedSwitchCtrl IsChecked="{Binding 视觉检测流程NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="视觉检测流程NGNG" />
+            <common:LedSwitchCtrl IsChecked="{Binding 其它NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="其它NG" />
+            <common:LedSwitchCtrl IsChecked="{Binding PLC参数NG, ElementName=ele}"
+                                  OffColor="Gray"
+                                  OnColor="Red"
+                                  Tip="PLC参数NG" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="3"
+                    Height="40"
+                    Orientation="Horizontal">
+            <Label Grid.Column="0" Content="X" />
+            <TextBlock Width="100" Text="{Binding X, ElementName=ele}" />
+            <Label Grid.Column="0" Content="Y" />
+            <TextBlock Width="100" Text="{Binding Y, ElementName=ele}" />
+            <Label Grid.Column="0" Content="Z" />
+            <TextBlock Width="100" Text="{Binding Z, ElementName=ele}" />
+            <Label Grid.Column="0" Content="A" />
+            <TextBlock Width="100" Text="{Binding A, ElementName=ele}" />
+
+        </StackPanel>
+    </Grid>
+</UserControl>

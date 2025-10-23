@@ -1,0 +1,394 @@
+2025-10-22 00:43:11 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 00:43:14 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 00:47:18 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 01:06:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 01:33:24 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 07:22:29 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 08:40:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 08:40:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 08:44:37 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 08:44:37 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 08:46:01 [ERR] [TApp.Handlers.UILogNotificationHandler] 【侧板自动拧紧】向PLC写数据错误：侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Flusher.<FlushAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcCtrlFlusher.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 22
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 27
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM3Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM3Middleware.cs:行号 168
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM2Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM2Middleware.cs:行号 168
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM1Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM1Middleware.cs:行号 166
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.MaintainMiddleware.<InvokeAsync>d__5.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\MaintainMiddleware.cs:行号 46
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.HeartBeatMiddleware.<InvokeAsync>d__1.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\HeartBeatMiddleware.cs:行号 19
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.PublishNotification.PublishNotificationMiddleware.<InvokeAsync>d__2.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\PublishNotification\PublishNotificationMiddleware.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.ScanProcessor.<HandleAsync>d__1.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\ScanProcessor.cs:行号 36
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<HandleMsgAsync>d__9.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 84
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 08:46:06 [ERR] [TApp.Handlers.UILogNotificationHandler] 【侧板自动拧紧】向PLC写数据错误：侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Flusher.<FlushAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcCtrlFlusher.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 22
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 27
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM3Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM3Middleware.cs:行号 168
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM2Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM2Middleware.cs:行号 168
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM1Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM1Middleware.cs:行号 166
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.MaintainMiddleware.<InvokeAsync>d__5.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\MaintainMiddleware.cs:行号 46
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.HeartBeatMiddleware.<InvokeAsync>d__1.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\HeartBeatMiddleware.cs:行号 19
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.PublishNotification.PublishNotificationMiddleware.<InvokeAsync>d__2.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\PublishNotification\PublishNotificationMiddleware.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.ScanProcessor.<HandleAsync>d__1.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\ScanProcessor.cs:行号 36
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<HandleMsgAsync>d__9.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 84
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 08:47:06 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 08:47:06 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 09:16:10 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 11:04:43 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 11:46:57 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 13:40:42 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 14:51:33 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 14:54:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 14:54:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 14:54:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 14:54:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 14:55:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 14:55:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 14:55:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 14:55:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:00:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 15:00:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 15:00:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:00:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:00:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:4;Batch:0;
+2025-10-22 15:00:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:01:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:01:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:01:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:01:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:01:32 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:01:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:01:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:01:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:01:43 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:03:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:03:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:04:05 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:111;ErrMsg:;ErrorCode:0
+2025-10-22 15:05:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 15:05:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 15:05:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:05:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:05:09 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:111;ErrMsg:;ErrorCode:0
+2025-10-22 15:05:23 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 15:05:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:05:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:05:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:05:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:12:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:14:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:14:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:14:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:19:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:19:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:19:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:19:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:19:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:19:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:19:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:21:11 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 15:21:13 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 15:21:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:21:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:21:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:21:46 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:21:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:21:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:21:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 15:21:52 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:23:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:28:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:28:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 15:28:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:28:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:28:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 15:28:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 15:28:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 15:28:28 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 15:28:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 15:34:33 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 16:09:12 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 16:19:16 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 16:19:18 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 16:19:36 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 16:59:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 16:59:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 16:59:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 16:59:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 17:00:11 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 17:00:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 17:20:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 17:20:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 17:20:32 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 17:20:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 17:26:20 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 18:14:38 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 18:21:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:21:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:21:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:21:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:21:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:21:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1457;Batch:0;
+2025-10-22 18:22:14 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-22 18:23:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:23:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:23:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:23:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:23:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:23:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:23:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:305;Batch:0;
+2025-10-22 18:24:04 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-22 18:24:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:24:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:24:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:24:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:24:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:24:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:24:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:280;Batch:0;
+2025-10-22 18:24:49 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-22 18:27:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-22 18:27:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-22 18:28:36 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 18:28:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:29:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:29:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:29:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:29:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:29:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:29:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 18:29:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:29:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:37:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:37:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:37:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:37:49 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:37:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:37:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 18:37:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:38:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:47:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:47:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:3;Batch:0;
+2025-10-22 18:47:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:47:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:47:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:47:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:4;Batch:0;
+2025-10-22 18:47:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:51:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:51:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:51:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-22 18:51:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:51:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:51:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:51:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:2;Batch:0;
+2025-10-22 18:51:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:51:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:51:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:51:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:3;Batch:0;
+2025-10-22 18:51:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:52:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 18:52:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 18:52:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:4;Batch:0;
+2025-10-22 18:52:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 18:52:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 20:38:41 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-22 20:39:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 20:39:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:5;Batch:0;
+2025-10-22 20:39:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 20:39:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 20:39:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-22 20:39:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:6;Batch:0;
+2025-10-22 20:39:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-22 20:39:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-22 20:43:00 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-22 21:47:03 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Code\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()

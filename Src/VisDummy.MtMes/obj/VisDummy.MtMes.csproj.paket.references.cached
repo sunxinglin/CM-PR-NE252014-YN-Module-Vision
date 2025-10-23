@@ -1,0 +1,14 @@
+MaterialDesignThemes
+MaterialDesignColors
+ReactiveUI
+ReactiveUI.Fody
+ReactiveUI.WPF
+Splat
+Serilog
+Serilog.AspNetCore
+
+System.Text.Json
+NETStandard.Library
+Microsoft.NETFramework.ReferenceAssemblies
+Catl.HostComputer.CommonServices
+Stdunit.One.Shared

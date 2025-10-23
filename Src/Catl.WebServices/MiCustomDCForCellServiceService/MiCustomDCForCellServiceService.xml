@@ -1,0 +1,133 @@
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://customcelldc.ws.atlmes.com/" xmlns:tns="http://customcelldc.ws.atlmes.com/">
+  <wsdl:types>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://customcelldc.ws.atlmes.com/" version="1.0">
+      <xs:element name="ParseException" type="tns:ParseException"/>
+      <xs:element name="cellCustomDCCheck" type="tns:cellCustomDCCheck"/>
+      <xs:element name="cellCustomDCCheckResponse" type="tns:cellCustomDCCheckResponse"/>
+      <xs:element name="getZeroZoneTime" type="tns:getZeroZoneTime"/>
+      <xs:element name="getZeroZoneTimeResponse" type="tns:getZeroZoneTimeResponse"/>
+      <xs:element name="miCustomDCForCellInventory" type="tns:miCustomDCForCellInventory"/>
+      <xs:element name="miCustomDCForCellInventoryData" type="tns:miCustomDCForCellInventoryData"/>
+      <xs:element name="miCustomDCForCellRequest" type="tns:miCustomDCForCellRequest"/>
+      <xs:element name="miCustomDCForCellResponse" type="tns:miCustomDCForCellResponse"/>
+      <xs:complexType name="cellCustomDCCheck">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:miCustomDCForCellRequest"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="miCustomDCForCellRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string"/>
+          <xs:element name="dcSequence" type="xs:string"/>
+          <xs:element name="user" type="xs:string"/>
+          <xs:element minOccurs="0" name="Multispec" type="xs:string"/>
+          <xs:element name="operation" type="xs:string"/>
+          <xs:element name="resource" type="xs:string"/>
+          <xs:element maxOccurs="unbounded" name="inventoryList" type="tns:miCustomDCForCellInventory"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="miCustomDCForCellInventory">
+        <xs:sequence>
+          <xs:element name="inventoryId" type="xs:string"/>
+          <xs:element name="marking" type="xs:string"/>
+          <xs:element maxOccurs="unbounded" name="inventoryDatalist" type="tns:miCustomDCForCellInventoryData"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="miCustomDCForCellInventoryData">
+        <xs:sequence>
+          <xs:element name="name" type="xs:string"/>
+          <xs:element name="value" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellCustomDCCheckResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:miCustomDCForCellResponse"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="miCustomDCForCellResponse">
+        <xs:sequence>
+          <xs:element name="code" type="xs:int"/>
+          <xs:element name="message" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getZeroZoneTime">
+        <xs:sequence/>
+      </xs:complexType>
+      <xs:complexType name="getZeroZoneTimeResponse">
+        <xs:sequence>
+          <xs:element name="return" type="xs:long"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ParseException">
+        <xs:sequence>
+          <xs:element name="errorOffset" type="xs:int"/>
+          <xs:element minOccurs="0" name="message" type="xs:string"/>
+          <xs:element maxOccurs="unbounded" minOccurs="0" name="suppressed" type="tns:throwable"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="throwable">
+        <xs:sequence>
+          <xs:element maxOccurs="unbounded" minOccurs="0" name="stackTrace" nillable="true" type="tns:stackTraceElement"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType final="extension restriction" name="stackTraceElement">
+        <xs:sequence/>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="cellCustomDCCheckIn">
+    <wsdl:part element="tns:cellCustomDCCheck" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="cellCustomDCCheckOut">
+    <wsdl:part element="tns:cellCustomDCCheckResponse" name="cellCustomDCCheckResponse"/>
+  </wsdl:message>
+  <wsdl:message name="getZeroZoneTimeIn">
+    <wsdl:part element="tns:getZeroZoneTime" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="getZeroZoneTimeOut">
+    <wsdl:part element="tns:getZeroZoneTimeResponse" name="getZeroZoneTimeResponse"/>
+  </wsdl:message>
+  <wsdl:message name="getZeroZoneTimeFault">
+    <wsdl:part element="tns:ParseException" name="ParseException"/>
+  </wsdl:message>
+  <wsdl:portType name="MiCustomDCForCellService">
+    <wsdl:operation name="cellCustomDCCheck" parameterOrder="parameters">
+      <wsdl:input message="tns:cellCustomDCCheckIn"/>
+      <wsdl:output message="tns:cellCustomDCCheckOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="getZeroZoneTime" parameterOrder="parameters">
+      <wsdl:input message="tns:getZeroZoneTimeIn"/>
+      <wsdl:output message="tns:getZeroZoneTimeOut"/>
+      <wsdl:fault message="tns:getZeroZoneTimeFault" name="ParseException"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MiCustomDCForCellServiceBinding" type="tns:MiCustomDCForCellService" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="cellCustomDCCheck">
+      <soap:operation soapAction=""/>
+      <wsdl:input>
+        <soap:body parts="parameters" use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getZeroZoneTime">
+      <soap:operation soapAction=""/>
+      <wsdl:input>
+        <soap:body parts="parameters" use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="ParseException">
+        <soap:fault name="ParseException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MiCustomDCForCellServiceService">
+    <wsdl:port binding="tns:MiCustomDCForCellServiceBinding" name="MiCustomDCForCellServicePort">
+      <soap:address xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" location="http://lymesp024.catlbattery.com:50400/atlmeswebservice/MiCustomDCForCellServiceService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

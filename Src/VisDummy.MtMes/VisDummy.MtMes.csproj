@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<OutputType>Library</OutputType>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<LangVersion>Latest</LangVersion>
+		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+		<UseWPF>true</UseWPF>
+		<LangVersion>Latest</LangVersion>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Catl.MesInvocation\Catl.MesInvocation.csproj" />
+		<ProjectReference Include="..\VisDummy.Lang\VisDummy.Lang.csproj" />
+		<ProjectReference Include="..\VisDummy.Shared\VisDummy.Shared.csproj" />
+	</ItemGroup>
+	<Import Project="..\.paket\Paket.Restore.targets" />
+</Project>

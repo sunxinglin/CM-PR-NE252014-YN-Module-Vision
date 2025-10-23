@@ -1,0 +1,154 @@
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.sourcelink.json
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.sourcelink.json
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+E:\视觉\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.AssemblyReference.cache
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfoInputs.cache
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.AssemblyInfo.cs
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.sourcelink.json
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.E56B31BF.Up2Date
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Abstractions\obj\Debug\net472\VisDummy.Abstractions.pdb

@@ -1,0 +1,1430 @@
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\vision-code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+E:\视觉\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.g.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.baml
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\MES\Code\Vision\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\MES\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.WPF.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\AsZero.Core.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Catl.HostComputer.CommonServices.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\DynamicData.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.FunFlows.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignColors.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\MaterialDesignThemes.Wpf.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\MediatR.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.AspNetCore.Http.Features.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.CodeAnalysis.Scripting.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Caching.Memory.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.DependencyModel.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Http.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.ObjectPool.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Microsoft.Xaml.Behaviors.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OOXML.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXml4Net.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.OpenXmlFormats.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\NPOI.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Fody.Helpers.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Validation.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\ReactiveUI.Wpf.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Refit.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Refit.HttpClientFactory.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Refit.Newtonsoft.Json.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.AspNetCore.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Hosting.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Extensions.Logging.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Formatting.Compact.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Settings.Configuration.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Console.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.Debug.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\ICSharpCode.SharpZipLib.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Splat.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Collections.Immutable.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Diagnostics.EventLog.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Drawing.Common.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Packaging.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Net.Http.Json.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Private.DataContractSerialization.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Private.ServiceModel.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.DispatchProxy.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.Metadata.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Reflection.TypeExtensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Cng.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Pkcs.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Permissions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Http.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.ServiceModel.Primitives.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encoding.CodePages.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Channels.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MKVMs.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Shared.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.MtMes.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.VMs.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Catl.MesInvocation.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\Catl.WebServices.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.WPF\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.AssemblyReference.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF_MarkupCompile.lref
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Common\DynamicVisionCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Common\LedSwitchCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\DbgView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\PamsView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Basics\RtView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\DevTriggerCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\HeartSideCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\Loading\LoadingStation3DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstReplyCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\MstSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\人工位\人工位水冷板检测Ctrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\垫片检测\垫片检测Station2DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组入箱\模组入箱Station2DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组检测\模组检测Station2DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\模组贴标\模组贴标Station2DSpotCtrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取定位引导Ctrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取校验Ctrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\CommonCtrl\水冷板抓取\水冷板抓取自动校准Ctrl.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\LoadingMonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\PLCMonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\人工位MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\侧板自动拧紧MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\垫片检测MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组入箱MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组检测MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\模组贴标MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\Views\Monitor\水冷板抓取MonitorView.baml
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.g.resources
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfoInputs.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.AssemblyInfo.cs
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.sourcelink.json
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.CopyLocal.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.WPF.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Code\Src\VisDummy.WPF\obj\Debug\net472\VisDummy.853B6F9D.Up2Date

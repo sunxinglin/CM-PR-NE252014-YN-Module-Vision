@@ -1,0 +1,112 @@
+D:\MES\Code\vision-code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+D:\MES\Code\vision-code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.sourcelink.json
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\vision-code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+E:\视觉\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+E:\视觉\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+E:\视觉\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+E:\视觉\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.sourcelink.json
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+E:\视觉\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Code\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+D:\MES\Code\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Code\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\Vision\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+D:\MES\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.deps.json
+D:\MES\Code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\VisDummy.Lang.pdb
+D:\MES\Code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Lang\bin\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.AssemblyReference.cache
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.resources
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.en-GB.resources
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.Resources.Language.id.resources
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.GenerateResource.cache
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfoInputs.cache
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.AssemblyInfo.cs
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.sourcelink.json
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.dll
+D:\MES\Code\Src\VisDummy.Lang\obj\Debug\netstandard2.0\VisDummy.Lang.pdb

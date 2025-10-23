@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\Monitor\CommonCtrl\HeartSideCtrl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\CommonCtrl\Loading\LoadingStation2DCtrl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\CommonCtrl\Loading\LoadingStation2DSpotCtrl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\PLCMonitorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Monitor\侧板自动拧紧MonitorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Monitor\CommonCtrl\DevSpotCtrl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\DevTriggerCtrl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\HeartSideCtrl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\MstSpotCtrl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\MstReplyCtrl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\CommonCtrl\侧板自动安装\侧板自动拧紧CAM3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Monitor\侧板自动拧紧MonitorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

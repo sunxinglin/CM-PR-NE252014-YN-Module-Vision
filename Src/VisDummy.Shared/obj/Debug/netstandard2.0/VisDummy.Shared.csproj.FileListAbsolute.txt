@@ -1,0 +1,74 @@
+D:\MES\Code\vision-code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+D:\MES\Code\vision-code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.sourcelink.json
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+E:\视觉\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+E:\视觉\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+E:\视觉\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.sourcelink.json
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+E:\视觉\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+D:\MES\Code\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+D:\MES\Code\Vision\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+D:\MES\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.deps.json
+D:\MES\Code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\Src\VisDummy.Shared\bin\Debug\netstandard2.0\VisDummy.Shared.pdb
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.AssemblyReference.cache
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfoInputs.cache
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.AssemblyInfo.cs
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.sourcelink.json
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.CopyLocal.cache
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.csproj.Fody.RuntimeCopyLocal.cache
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.dll
+D:\MES\Code\Src\VisDummy.Shared\obj\Debug\netstandard2.0\VisDummy.Shared.pdb

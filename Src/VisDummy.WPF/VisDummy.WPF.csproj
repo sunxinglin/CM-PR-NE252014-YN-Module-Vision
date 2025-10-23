@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<OutputType>Library</OutputType>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<LangVersion>Latest</LangVersion>
+		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+		<UseWPF>true</UseWPF>
+		<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\VisDummy.Lang\VisDummy.Lang.csproj" />
+		<ProjectReference Include="..\VisDummy.MKVMs\VisDummy.MKVMs.csproj" />
+		<ProjectReference Include="..\VisDummy.Shared\VisDummy.Shared.csproj" />
+		<ProjectReference Include="..\VisDummy.MtMes\VisDummy.MtMes.csproj" />
+		<ProjectReference Include="..\VisDummy.Protocols\VisDummy.Protocols.csproj" />
+		<ProjectReference Include="..\VisDummy.VMs\VisDummy.VMs.csproj" />
+	</ItemGroup>
+	<Import Project="..\.paket\Paket.Restore.targets" />
+</Project>

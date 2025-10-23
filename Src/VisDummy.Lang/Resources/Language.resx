@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="登录" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="日志消息" xml:space="preserve">
+    <value>日志消息</value>
+  </data>
+  <data name="清屏" xml:space="preserve">
+    <value>清屏</value>
+  </data>
+  <data name="筛选" xml:space="preserve">
+    <value>筛选</value>
+  </data>
+  <data name="当前账号" xml:space="preserve">
+    <value>当前账号</value>
+  </data>
+  <data name="当前密码" xml:space="preserve">
+    <value>当前密码</value>
+  </data>
+  <data name="新密码" xml:space="preserve">
+    <value>新密码</value>
+  </data>
+  <data name="新密码(二次输入)" xml:space="preserve">
+    <value>新密码(二次输入)</value>
+  </data>
+  <data name="重置表单" xml:space="preserve">
+    <value>重置表单</value>
+  </data>
+  <data name="修改密码" xml:space="preserve">
+    <value>修改密码</value>
+  </data>
+  <data name="账号名" xml:space="preserve">
+    <value>账号名</value>
+  </data>
+  <data name="密码" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="密码(二次确认)" xml:space="preserve">
+    <value>密码(二次确认)</value>
+  </data>
+  <data name="姓名" xml:space="preserve">
+    <value>姓名</value>
+  </data>
+  <data name="工卡" xml:space="preserve">
+    <value>工卡</value>
+  </data>
+  <data name="角色" xml:space="preserve">
+    <value>角色</value>
+  </data>
+  <data name="创建用户" xml:space="preserve">
+    <value>创建用户</value>
+  </data>
+  <data name="名称" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="权限" xml:space="preserve">
+    <value>权限</value>
+  </data>
+  <data name="更新" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="账号" xml:space="preserve">
+    <value>账号</value>
+  </data>
+  <data name="状态" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="操作" xml:space="preserve">
+    <value>操作</value>
+  </data>
+  <data name="删除" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="当前页码" xml:space="preserve">
+    <value>当前页码</value>
+  </data>
+  <data name="总页数" xml:space="preserve">
+    <value>总页数</value>
+  </data>
+  <data name="上一页" xml:space="preserve">
+    <value>上一页</value>
+  </data>
+  <data name="下一页" xml:space="preserve">
+    <value>下一页</value>
+  </data>
+  <data name="刷新" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="用户操作" xml:space="preserve">
+    <value>用户操作</value>
+  </data>
+  <data name="切换用户" xml:space="preserve">
+    <value>切换用户</value>
+  </data>
+  <data name="注销(切换成操作员)" xml:space="preserve">
+    <value>注销(切换成操作员)</value>
+  </data>
+  <data name="管理权限" xml:space="preserve">
+    <value>管理权限</value>
+  </data>
+  <data name="系统用户" xml:space="preserve">
+    <value>系统用户</value>
+  </data>
+  <data name="刷卡登录" xml:space="preserve">
+    <value>刷卡登录</value>
+  </data>
+  <data name="请刷卡登录" xml:space="preserve">
+    <value>请刷卡登录</value>
+  </data>
+  <data name="密码登录" xml:space="preserve">
+    <value>密码登录</value>
+  </data>
+  <data name="取消" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="正在退出请勿强行关闭" xml:space="preserve">
+    <value>正在退出，请勿强行关闭:</value>
+  </data>
+  <data name="请稍等" xml:space="preserve">
+    <value>请稍等...</value>
+  </data>
+  <data name="设备ID" xml:space="preserve">
+    <value>设备ID:</value>
+  </data>
+  <data name="操作者" xml:space="preserve">
+    <value>操作者:</value>
+  </data>
+  <data name="已登录时间" xml:space="preserve">
+    <value>已登录时间:</value>
+  </data>
+  <data name="用户管理" xml:space="preserve">
+    <value>用户管理</value>
+  </data>
+  <data name="参数设置" xml:space="preserve">
+    <value>参数设置</value>
+  </data>
+  <data name="生产管理" xml:space="preserve">
+    <value>生产管理</value>
+  </data>
+  <data name="调试工具" xml:space="preserve">
+    <value>调试工具</value>
+  </data>
+  <data name="连接参数" xml:space="preserve">
+    <value>连接参数</value>
+  </data>
+  <data name="接口参数" xml:space="preserve">
+    <value>接口参数</value>
+  </data>
+  <data name="保存" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="首件调用" xml:space="preserve">
+    <value>首件调用</value>
+  </data>
+  <data name="值" xml:space="preserve">
+    <value>值</value>
+  </data>
+  <data name="流程" xml:space="preserve">
+    <value>流程</value>
+  </data>
+  <data name="选择流程" xml:space="preserve">
+    <value>选择流程</value>
+  </data>
+  <data name="说明" xml:space="preserve">
+    <value>说明</value>
+  </data>
+  <data name="步长" xml:space="preserve">
+    <value>步长</value>
+  </data>
+  <data name="九点标定" xml:space="preserve">
+    <value>九点标定</value>
+  </data>
+  <data name="旋转中心" xml:space="preserve">
+    <value>旋转中心</value>
+  </data>
+  <data name="禁止编辑" xml:space="preserve">
+    <value>禁止编辑</value>
+  </data>
+  <data name="触发拍照" xml:space="preserve">
+    <value>触发拍照</value>
+  </data>
+  <data name="功能号" xml:space="preserve">
+    <value>功能号</value>
+  </data>
+  <data name="点检" xml:space="preserve">
+    <value>点检</value>
+  </data>
+  <data name="拍照次数" xml:space="preserve">
+    <value>拍照次数</value>
+  </data>
+  <data name="批次" xml:space="preserve">
+    <value>批次</value>
+  </data>
+  <data name="拍照位置" xml:space="preserve">
+    <value>拍照位置</value>
+  </data>
+  <data name="视觉方案" xml:space="preserve">
+    <value>视觉方案</value>
+  </data>
+  <data name="N点标定" xml:space="preserve">
+    <value>N点标定</value>
+  </data>
+  <data name="MES配置" xml:space="preserve">
+    <value>MES配置</value>
+  </data>
+  <data name="MES测试" xml:space="preserve">
+    <value>MES测试</value>
+  </data>
+  <data name="VM全局变量" xml:space="preserve">
+    <value>VM全局变量</value>
+  </data>
+  <data name="通用状态" xml:space="preserve">
+    <value>通用状态</value>
+  </data>
+  <data name="维护模式" xml:space="preserve">
+    <value>维护模式</value>
+  </data>
+  <data name="心跳响应" xml:space="preserve">
+    <value>心跳响应</value>
+  </data>
+  <data name="心跳请求" xml:space="preserve">
+    <value>心跳请求</value>
+  </data>
+  <data name="Msg_请输入密码" xml:space="preserve">
+    <value>请输入密码</value>
+  </data>
+  <data name="Msg_新密码不得为空" xml:space="preserve">
+    <value>新密码不得为空</value>
+  </data>
+  <data name="Msg_两次输入的密码必须一致" xml:space="preserve">
+    <value>两次输入的密码必须一致</value>
+  </data>
+  <data name="Msg_账号名不可为空" xml:space="preserve">
+    <value>账号名不可为空！</value>
+  </data>
+  <data name="Msg_当前密码不可为空" xml:space="preserve">
+    <value>当前密码不可为空！</value>
+  </data>
+  <data name="Msg_新密码不可为空" xml:space="preserve">
+    <value>新密码不可为空！</value>
+  </data>
+  <data name="Msg_已修改密码" xml:space="preserve">
+    <value>已修改密码</value>
+  </data>
+  <data name="Msg_名称不可为空" xml:space="preserve">
+    <value>名称不可为空</value>
+  </data>
+  <data name="Msg_密码与工卡不可均为空" xml:space="preserve">
+    <value>密码与工卡不可均为空</value>
+  </data>
+  <data name="Msg_已创建用户" xml:space="preserve">
+    <value>已创建用户</value>
+  </data>
+  <data name="Msg_删除账户成功" xml:space="preserve">
+    <value>删除账户成功</value>
+  </data>
+  <data name="Msg_删除账户完成" xml:space="preserve">
+    <value>删除账户完成</value>
+  </data>
+  <data name="Msg_已删除用户" xml:space="preserve">
+    <value>已删除用户</value>
+  </data>
+  <data name="Msg_删除账户错误" xml:space="preserve">
+    <value>删除账户错误</value>
+  </data>
+  <data name="Msg_已修改权限分配" xml:space="preserve">
+    <value>已修改权限分配</value>
+  </data>
+  <data name="Msg_切换到用户失败请检查服务器是否启动或操作员凭据" xml:space="preserve">
+    <value>切换到用户失败，请检查服务器是否启动或操作员凭据</value>
+  </data>
+  <data name="Msg_保存成功" xml:space="preserve">
+    <value>保存成功</value>
+  </data>
+  <data name="Msg_当前INI文件不含有首件的配置段" xml:space="preserve">
+    <value>当前INI文件不含有首件的配置段</value>
+  </data>
+  <data name="Msg_首件参数变动" xml:space="preserve">
+    <value>首件参数变动</value>
+  </data>
+  <data name="Msg_修改前" xml:space="preserve">
+    <value>修改前</value>
+  </data>
+  <data name="Msg_全局参数变动" xml:space="preserve">
+    <value>全局参数变动</value>
+  </data>
+  <data name="Msg_设置全局变量失败" xml:space="preserve">
+    <value>设置全局变量失败</value>
+  </data>
+  <data name="Msg_获取全局变量功能类失败" xml:space="preserve">
+    <value>获取全局变量功能类失败</value>
+  </data>
+  <data name="Msg_无法加载3D视觉控制器" xml:space="preserve">
+    <value>无法加载3D视觉控制器</value>
+  </data>
+  <data name="Msg_流程未注册或未注册成" xml:space="preserve">
+    <value>流程未注册 或未注册成</value>
+  </data>
+  <data name="Msg_3D视觉拍照状态码异常" xml:space="preserve">
+    <value>3D视觉拍照状态码异常</value>
+  </data>
+  <data name="Msg_加载流程失败" xml:space="preserve">
+    <value>加载流程失败</value>
+  </data>
+  <data name="Msg_已登录" xml:space="preserve">
+    <value>已登录</value>
+  </data>
+  <data name="Msg_正常工作拍照" xml:space="preserve">
+    <value>正常工作拍照</value>
+  </data>
+  <data name="Msg_视觉输入参数" xml:space="preserve">
+    <value>视觉输入参数</value>
+  </data>
+  <data name="Msg_拍照失败" xml:space="preserve">
+    <value>拍照失败</value>
+  </data>
+  <data name="Msg_拍照成功" xml:space="preserve">
+    <value>拍照成功</value>
+  </data>
+  <data name="Msg_初始化" xml:space="preserve">
+    <value>初始化</value>
+  </data>
+  <data name="全局变量" xml:space="preserve">
+    <value>全局变量</value>
+  </data>
+  <data name="Msg_收到PLC拍照请求" xml:space="preserve">
+    <value>收到PLC拍照请求</value>
+  </data>
+  <data name="Msg_PLC参数错误" xml:space="preserve">
+    <value>PLC参数错误</value>
+  </data>
+  <data name="Msg_向PLC写数据错误" xml:space="preserve">
+    <value>向PLC写数据错误</value>
+  </data>
+  <data name="Msg_MST信号为空将从PLC重新读取" xml:space="preserve">
+    <value>MST信号为空，将从PLC重新读取...</value>
+  </data>
+  <data name="Msg_MST信号已从PLC恢复" xml:space="preserve">
+    <value>MST信号已从PLC恢复</value>
+  </data>
+  <data name="类型" xml:space="preserve">
+    <value>类型</value>
+  </data>
+  <data name="Msg_系统错误" xml:space="preserve">
+    <value>系统错误</value>
+  </data>
+  <data name="视觉监控" xml:space="preserve">
+    <value>视觉监控</value>
+  </data>
+  <data name="点位监控-大包装" xml:space="preserve">
+    <value>点位监控-大包装</value>
+  </data>
+  <data name="视觉工作拍照请求" xml:space="preserve">
+    <value>视觉工作拍照请求</value>
+  </data>
+  <data name="视觉工作拍照响应" xml:space="preserve">
+    <value>视觉工作拍照响应</value>
+  </data>
+  <data name="响应OK" xml:space="preserve">
+    <value>响应OK</value>
+  </data>
+  <data name="响应NG" xml:space="preserve">
+    <value>响应NG</value>
+  </data>
+  <data name="工程状态" xml:space="preserve">
+    <value>工程状态</value>
+  </data>
+  <data name="泡棉状态" xml:space="preserve">
+    <value>泡棉状态</value>
+  </data>
+  <data name="电芯列数" xml:space="preserve">
+    <value>电芯列数</value>
+  </data>
+  <data name="来料方向" xml:space="preserve">
+    <value>来料方向</value>
+  </data>
+  <data name="标定球拍照请求" xml:space="preserve">
+    <value>标定球拍照请求</value>
+  </data>
+  <data name="标定球拍照完成请求" xml:space="preserve">
+    <value>标定球拍照完成请求</value>
+  </data>
+  <data name="Msg_标定球拍照请求" xml:space="preserve">
+    <value>标定球拍照请求</value>
+  </data>
+  <data name="标定球拍照响应" xml:space="preserve">
+    <value>标定球拍照响应</value>
+  </data>
+  <data name="报警代码" xml:space="preserve">
+    <value>报警代码</value>
+  </data>
+  <data name="电芯码" xml:space="preserve">
+    <value>电芯码</value>
+  </data>
+  <data name="精度校验拍照请求" xml:space="preserve">
+    <value>精度校验拍照请求</value>
+  </data>
+  <data name="相机号" xml:space="preserve">
+    <value>相机号</value>
+  </data>
+  <data name="精度校验拍照响应" xml:space="preserve">
+    <value>精度校验拍照响应</value>
+  </data>
+  <data name="特征大小" xml:space="preserve">
+    <value>特征大小</value>
+  </data>
+  <data name="像素精度" xml:space="preserve">
+    <value>像素精度</value>
+  </data>
+  <data name="Msg_精度校验" xml:space="preserve">
+    <value>精度校验</value>
+  </data>
+  <data name="风冷片有无" xml:space="preserve">
+    <value>风冷片有无</value>
+  </data>
+  <data name="极性结果" xml:space="preserve">
+    <value>极性结果</value>
+  </data>
+  <data name="点位监控-模组检测" xml:space="preserve">
+    <value>点位监控-模组检测</value>
+  </data>
+  <data name="点位监控-模组贴标" xml:space="preserve">
+    <value>点位监控-模组贴标</value>
+  </data>
+  <data name="点位监控-垫片检测" xml:space="preserve">
+    <value>点位监控-垫片检测</value>
+  </data>
+  <data name="点位监控-模组入箱" xml:space="preserve">
+    <value>点位监控-模组入箱</value>
+  </data>
+  <data name="泡棉层高" xml:space="preserve">
+    <value>泡棉层高</value>
+  </data>
+  <data name="模组类型" xml:space="preserve">
+    <value>模组类型</value>
+  </data>
+  <data name="日志查询" xml:space="preserve">
+    <value>查询日志</value>
+  </data>
+  <data name="运行日志" xml:space="preserve">
+    <value>运行日志</value>
+  </data>
+  <data name="PLC日志" xml:space="preserve">
+    <value>PLC日志</value>
+  </data>
+  <data name="报警日志" xml:space="preserve">
+    <value>报警日志</value>
+  </data>
+</root>

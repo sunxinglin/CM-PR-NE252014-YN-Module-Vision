@@ -1,0 +1,656 @@
+2025-10-21 09:03:26 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:03:26 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:17:03 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:17:03 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:38:50 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:38:50 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:50:42 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:50:42 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:51:46 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:51:46 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:52:34 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:52:34 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 09:54:29 [ERR] [TApp.Handlers.UILogNotificationHandler] 类型“VisDummy.Protocols.Common.Model.Dev_PhotoREQFlag”不能作为非托管结构进行封送处理；无法计算有意义的大小或偏移量。
+   在 System.Runtime.InteropServices.Marshal.SizeOfHelper(Type t, Boolean throwIfNotMarshalable)
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetMstMsgAsync>d__7.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 09:54:32 [ERR] [TApp.Handlers.UILogNotificationHandler] 类型“VisDummy.Protocols.Common.Model.Dev_PhotoREQFlag”不能作为非托管结构进行封送处理；无法计算有意义的大小或偏移量。
+   在 System.Runtime.InteropServices.Marshal.SizeOfHelper(Type t, Boolean throwIfNotMarshalable)
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetMstMsgAsync>d__7.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 09:54:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 类型“VisDummy.Protocols.Common.Model.Dev_PhotoREQFlag”不能作为非托管结构进行封送处理；无法计算有意义的大小或偏移量。
+   在 System.Runtime.InteropServices.Marshal.SizeOfHelper(Type t, Boolean throwIfNotMarshalable)
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetMstMsgAsync>d__7.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 45
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 09:56:42 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 09:56:42 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:02:51 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:02:51 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:07:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:07:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:09:16 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:09:16 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:09:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:10:01 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:10:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:10 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:19 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:19 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:21 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:21 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:22 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:23 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:23 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:24 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:24 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:25 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:26 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:10:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:10:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:10:26 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:11:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:11:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:56 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:56 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:57 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:59 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:11:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:11:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:11:59 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:00 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:01 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:01 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:02 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:02 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:12:22 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:12:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:12:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:28 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:36 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:37 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:37 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:37 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:38 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:39 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:39 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:40 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:40 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:41 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:42 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:13:42 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:13:43 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:13:43 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:15:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:15:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:15:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:15:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:0;Batch:0;
+2025-10-21 10:15:37 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Z偏移量:Cannot Find IO Z偏移量 From Name;ErrorCode:1
+2025-10-21 10:15:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 10:17:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:17:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:17:26 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse PLC参数NG:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 10:17:43 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 10:17:49 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:17:49 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:18:52 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:18:53 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:18:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:18:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:20 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:19:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 10:19:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:19:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:21:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 10:21:02 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 10:21:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 10:21:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 10:21:16 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\渲染图\OK\202510\20251021
+2025-10-21 18:24:50 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 18:24:50 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 18:25:16 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 18:34:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:34:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:34:18 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse 特征点NG:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 18:39:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:39:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:39:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:39:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 18:41:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:41:46 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:41:46 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:41:47 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 18:47:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:47:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:47:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:47:27 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 18:52:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:52:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:52:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:52:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 18:55:29 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:55:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:55:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:55:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 18:58:46 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 18:58:46 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 18:59:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 18:59:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 18:59:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 18:59:49 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse 特征点NG:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:00:01 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:02:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:02:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:49 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:52 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:52 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:52 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:02:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:02:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:02:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:05 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:06 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:03:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:03:41 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:03:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:03:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:03:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:04:01 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:04:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:05:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:05:01 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:05:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:05:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:05:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:05:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:05:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:07:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:07:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:07:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:07:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:10:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:10:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:10:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:10:30 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:Cannot Find IO X偏移量 From Name;ErrorCode:1
+2025-10-21 19:11:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:11:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:11:15 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:12:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:13:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:13:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:13:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:13:30 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:17:13 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:17:13 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:17:25 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:18:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:18:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:18:11 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:18:43 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:20:09 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:20:09 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:20:18 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:20:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:20:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:20:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:20:24 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:24:12 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:24:14 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetMstMsgAsync>d__7.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 54
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 19:24:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:24:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:24:25 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:24:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:24:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:24:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:25:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:25:58 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:26:00 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:26:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:26:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:26:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:27:49 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:27:49 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:27:57 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:28:00 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 19:34:33 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:37:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:37:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:37:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:37:51 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:42:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:42:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:42:32 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:43:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:43:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:43:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:1;Batch:0;
+2025-10-21 19:43:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:E:\存图\工位1相机\位置1\渲染图\OK\202510\20251021
+2025-10-21 19:43:41 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:46:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:46:53 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:47:11 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:47:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:47:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:47:31 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:47:47 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:50:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:50:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:50:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:50:56 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse 特征点NG:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:52:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:52:15 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:52:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:52:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:52:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:53:33 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:53:33 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:53:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:53:34 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:53:58 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse Y偏移量:Cannot Find IO Y偏移量 From Name;ErrorCode:1
+2025-10-21 19:54:09 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:54:43 [ERR] [TApp.Handlers.UILogNotificationHandler] 【侧板自动拧紧】向PLC写数据错误：侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Flusher.<FlushAsync>d__3.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcCtrlFlusher.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 22
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.FlushPendingMiddleware.<InvokeAsync>d__3.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\FlushPendingMiddleware.cs:行号 27
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM3Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM3Middleware.cs:行号 167
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM2Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM2Middleware.cs:行号 167
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.HandleCAM1Middleware.<InvokeAsync>d__36.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\HandleCAM1Middleware.cs:行号 166
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.MaintainMiddleware.<InvokeAsync>d__5.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\MaintainMiddleware.cs:行号 46
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.HeartBeatMiddleware.<InvokeAsync>d__1.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\HeartBeatMiddleware.cs:行号 19
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.Middlewares.Common.PublishNotification.PublishNotificationMiddleware.<InvokeAsync>d__2.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\Middlewares\Common\PublishNotification\PublishNotificationMiddleware.cs:行号 23
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Itminus.Middlewares.WorkBuilder`1.<>c__DisplayClass4_0`1.<<Use>b__1>d.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.ScanProcessor.<HandleAsync>d__1.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\ScanProcessor.cs:行号 36
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<HandleMsgAsync>d__9.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 84
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 19:55:29 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 19:55:29 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 19:55:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:55:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:55:42 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:56:20 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse 特征点NG:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 19:56:32 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 19:58:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 19:59:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 19:59:02 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 19:59:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 19:59:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:01:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:01:38 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:2;Batch:0;
+2025-10-21 20:01:44 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:01:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:04:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:04:13 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:3;Batch:0;
+2025-10-21 20:04:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:04:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:05:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:05:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:4;Batch:0;
+2025-10-21 20:05:55 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:05:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:36:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:36:17 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:0;Position:0;Batch:0;
+2025-10-21 20:37:08 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 20:37:28 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 20:39:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:39:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:39:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:0;Position:0;Batch:0;
+2025-10-21 20:39:23 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 20:39:45 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:39:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:39:50 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:40:02 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 20:40:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:40:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:40:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:40:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 20:43:57 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:43:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:43:58 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:44:16 [ERR] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照失败：ImagePath:;ErrMsg:Failed To Parse X偏移量:未将对象引用设置到对象的实例。;ErrorCode:1
+2025-10-21 20:45:20 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 20:45:20 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 20:45:35 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:45:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:45:36 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:46:54 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 20:46:54 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 20:46:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:46:54 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:08 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:47:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:47:09 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:47:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:47:10 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:47:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:47:12 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:47:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:47:14 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:56 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 20:47:56 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 20:47:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:47:56 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:47:59 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:48:21 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:48:22 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 20:48:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:48:23 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:48:24 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:49:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:49:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:49:22 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:50:26 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:53:04 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 20:53:05 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 20:53:05 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 20:54:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:54:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:54:28 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:54:40 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:55:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:55:07 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:1;Position:4;Batch:0;
+2025-10-21 20:55:19 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:57:03 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：初始化
+2025-10-21 20:57:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:收到PLC拍照请求
+2025-10-21 20:57:04 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：正常工作拍照1:视觉输入参数：Function:2;Position:1;Batch:0;
+2025-10-21 20:57:39 [INF] [TApp.Handlers.UILogNotificationHandler] 正常工作拍照1：拍照成功：ImagePath:111
+2025-10-21 20:58:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [!] PLC=[侧板自动拧紧]{ MST信号为空，将从PLC重新读取...}
+2025-10-21 20:58:44 [WRN] [StdUnit.Sharp7.Options.S7PlcScanner] [-] PLC=[侧板自动拧紧] MST信号已从PLC恢复
+2025-10-21 21:00:48 [FTL] [TApp.Handlers.UILogNotificationHandler] 操作日志：已登录
+2025-10-21 21:54:47 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 22:16:51 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 22:37:55 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 23:13:00 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Error receiving Data：OsSockerError=5;IsoTcpError=None;S7Error=0
+   在 VisDummy.Protocols.侧板自动拧紧.侧板自动拧紧Scanner.<GetDevMsgAsync>d__6.MoveNext() 位置 D:\MES\Src\VisDummy.Protocols\侧板自动拧紧\PlcScanner.cs:行号 39
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()
+2025-10-21 23:13:03 [ERR] [TApp.Handlers.UILogNotificationHandler] 侧板自动拧紧: TCP : Connection Error：OsSockerError=3;IsoTcpError=None;S7Error=0
+   在 StdUnit.Sharp7.Options.S7PlcCtrl.<EnsureConnectedAsync>d__18.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 StdUnit.Sharp7.Options.S7PlcScanner`2.<RunAsync>d__17.MoveNext()

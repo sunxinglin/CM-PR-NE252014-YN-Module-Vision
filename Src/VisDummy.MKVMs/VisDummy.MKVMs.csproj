@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<LangVersion>Latest</LangVersion>
+		<OutputType>Library</OutputType>
+		<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\VisDummy.Lang\VisDummy.Lang.csproj" />
+		<ProjectReference Include="..\VisDummy.Shared\VisDummy.Shared.csproj" />
+		<ProjectReference Include="..\VisDummy.Abstractions\VisDummy.Abstractions.csproj" />
+	</ItemGroup>
+	<Import Project="..\.paket\Paket.Restore.targets" />
+</Project>

@@ -1,0 +1,14 @@
+2025-10-18 11:47:25 [WRN] [Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-10-18 11:48:05 [WRN] [Microsoft.EntityFrameworkCore.Model.Validation] The property '"TraceProcItem"."Value"' is a collection or enumeration type with a value converter but with no value comparer. Set a value comparer to ensure the collection/enumeration elements are compared correctly.
+2025-10-18 11:48:06 [WRN] [Microsoft.EntityFrameworkCore.Model.Validation] The property '"FuncResource"."AllowedClaims"' is a collection or enumeration type with a value converter but with no value comparer. Set a value comparer to ensure the collection/enumeration elements are compared correctly.
+2025-10-18 11:48:06 [WRN] [Microsoft.EntityFrameworkCore.Model.Validation] The property '"OutboxMessage"."Data"' is a collection or enumeration type with a value converter but with no value comparer. Set a value comparer to ensure the collection/enumeration elements are compared correctly.
+2025-10-18 11:48:06 [INF] [Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager] User profile is available. Using '"C:\Users\admin\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-10-18 11:48:06 [INF] [Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager] Creating key {b9419db9-d4e0-4758-aec1-ecdf2e8d84ab} with creation date 2025-10-18 03:48:06Z, activation date 2025-10-18 03:48:06Z, and expiration date 2026-01-16 03:48:06Z.
+2025-10-18 11:48:06 [INF] [Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository] Writing data to file '"C:\Users\admin\AppData\Local\ASP.NET\DataProtection-Keys\key-b9419db9-d4e0-4758-aec1-ecdf2e8d84ab.xml"'.
+2025-10-18 11:48:07 [INF] [Microsoft.Hosting.Lifetime] Now listening on: "http://0.0.0.0:5000"
+2025-10-18 11:48:07 [INF] [Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2025-10-18 11:48:07 [INF] [Microsoft.Hosting.Lifetime] Hosting environment: "Production"
+2025-10-18 11:48:07 [INF] [Microsoft.Hosting.Lifetime] Content root path: "D:\MES\Code\AsZero.WebApi"
+2025-10-18 11:56:10 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-18 11:59:15 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.
+2025-10-18 12:03:48 [INF] [Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler] AuthenticationScheme: "Cookies" signed in.

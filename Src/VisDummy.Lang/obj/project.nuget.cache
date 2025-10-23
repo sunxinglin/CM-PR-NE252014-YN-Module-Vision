@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iGrqDNethrKScFM8GHjUd8hq6hyB8Kxvueoh1LA9DTo+t5It5G3gQgf6G0cIFdytPPNnHas33uEsQW/HWa5aA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CM-PR-NE252014-YN-Module-Vision\\Src\\VisDummy.Lang\\VisDummy.Lang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xinglin.sun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xinglin.sun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

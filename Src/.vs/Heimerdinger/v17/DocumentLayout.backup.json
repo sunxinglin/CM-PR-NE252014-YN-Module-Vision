@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MES\\Code\\Src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam3middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam3middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4943C2-6B41-4F8E-B489-56782F062D3D}|VisDummy.VMs\\VisDummy.VMs.csproj|d:\\mes\\code\\src\\visdummy.vms\\hikservices\\visprocimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4943C2-6B41-4F8E-B489-56782F062D3D}|VisDummy.VMs\\VisDummy.VMs.csproj|solutionrelative:visdummy.vms\\hikservices\\visprocimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4943C2-6B41-4F8E-B489-56782F062D3D}|VisDummy.VMs\\VisDummy.VMs.csproj|d:\\mes\\code\\src\\visdummy.vms\\common\\procedureresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4943C2-6B41-4F8E-B489-56782F062D3D}|VisDummy.VMs\\VisDummy.VMs.csproj|solutionrelative:visdummy.vms\\common\\procedureresultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg_cam1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\mstmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam2middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam2middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam1middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\middlewares\\handlecam1middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\plcscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\plcscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|d:\\mes\\code\\src\\visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\devmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225DA76-0B6A-4B80-B5E5-467753674E2B}|VisDummy.Protocols\\VisDummy.Protocols.csproj|solutionrelative:visdummy.protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\model\\devmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcedureResultExtensions.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.VMs\\Common\\ProcedureResultExtensions.cs",
+              "RelativeDocumentMoniker": "VisDummy.VMs\\Common\\ProcedureResultExtensions.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.VMs\\Common\\ProcedureResultExtensions.cs",
+              "RelativeToolTip": "VisDummy.VMs\\Common\\ProcedureResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:21:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandleCAM3Middleware.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM3Middleware.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM3Middleware.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM3Middleware.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM3Middleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:02:58.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MstMsg_CAM3.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM3.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM3.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM3.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:04:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MstMsg_CAM2.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM2.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM2.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM2.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:04:44.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MstMsg_CAM1.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM1.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM1.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM1.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg_CAM1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:58:18.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MstMsg.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\MstMsg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:04:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisProcImpl.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.VMs\\HIKServices\\VisProcImpl.cs",
+              "RelativeDocumentMoniker": "VisDummy.VMs\\HIKServices\\VisProcImpl.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.VMs\\HIKServices\\VisProcImpl.cs",
+              "RelativeToolTip": "VisDummy.VMs\\HIKServices\\VisProcImpl.cs",
+              "ViewState": "AgIAALQDAAAAAAAAAAAmwMcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:57:49.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlcScanner.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\PlcScanner.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\PlcScanner.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\PlcScanner.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\PlcScanner.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:57:16.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DevMsg.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\DevMsg.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\DevMsg.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\DevMsg.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Model\\DevMsg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:56:30.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HandleCAM1Middleware.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM1Middleware.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM1Middleware.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM1Middleware.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM1Middleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:57:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandleCAM2Middleware.cs",
+              "DocumentMoniker": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM2Middleware.cs",
+              "RelativeDocumentMoniker": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM2Middleware.cs",
+              "ToolTip": "D:\\MES\\Code\\Src\\VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM2Middleware.cs",
+              "RelativeToolTip": "VisDummy.Protocols\\\u4FA7\u677F\u81EA\u52A8\u62E7\u7D27\\Middlewares\\HandleCAM2Middleware.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T00:38:07.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

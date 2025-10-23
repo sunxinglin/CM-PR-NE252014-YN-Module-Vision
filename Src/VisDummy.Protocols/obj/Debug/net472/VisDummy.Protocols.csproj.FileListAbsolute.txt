@@ -1,0 +1,550 @@
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.sourcelink.json
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\vision-code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.sourcelink.json
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+E:\视觉\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.sourcelink.json
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\Code\CM-PR-NE252014 YN-ML1 本田HEV模组线\CM-PR-NE252014-YN-Module\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Vision\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Protocols.pdb
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\FSharp.Core.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\FutureTech.Protocols.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.FSharpExtensions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Itminus.Middlewares.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\MediatR.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Bcl.Cryptography.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.Json.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Configuration.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Console.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.Debug.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventLog.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Logging.EventSource.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Microsoft.Win32.Registry.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\Newtonsoft.Json.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.One.Shared.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Sharp7.Options.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\StdUnit.Zero.Shared.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Buffers.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.ComponentModel.Annotations.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Formats.Asn1.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.IO.Pipelines.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Memory.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Reactive.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.AccessControl.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Cryptography.Xml.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Text.Json.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\System.ValueTuple.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\cs\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\de\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\es\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\fr\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\it\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\ja\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\ko\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\pl\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\ru\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\tr\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Abstractions.pdb
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\VisDummy.Lang.pdb
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\en-GB\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\bin\Debug\net472\id\VisDummy.Lang.resources.dll
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.AssemblyReference.cache
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.GeneratedMSBuildEditorConfig.editorconfig
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfoInputs.cache
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.AssemblyInfo.cs
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.csproj.CoreCompileInputs.cache
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.sourcelink.json
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.70749D7A.Up2Date
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.dll
+D:\MES\Code\Src\VisDummy.Protocols\obj\Debug\net472\VisDummy.Protocols.pdb

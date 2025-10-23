@@ -1,0 +1,90 @@
+source "C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\"
+source https://baget.stdunit.com/v3/index.json
+source https://api.nuget.org/v3/index.json
+cache ./nuget-package-caches
+
+framework: net8.0, net8.0-windows10.0.17763.0, net472, netstandard2.0
+storage: none
+strategy: min
+
+nuget NETStandard.Library
+nuget Microsoft.NETFramework.ReferenceAssemblies
+nuget microsoft.netcore.platforms
+
+nuget FSharp.Core >= 6.0
+
+nuget System.Runtime.Serialization.Formatters
+nuget System.Runtime.CompilerServices.Unsafe
+nuget System.ComponentModel >= 4.3.0  
+nuget System.ComponentModel.Annotations >= 5.0.0  
+nuget System.Text.Encoding.CodePages
+nuget System.Text.Encodings.Web >= 8.0.0  
+nuget System.Text.Json >= 8.0.0  
+nuget System.Threading.Tasks.Extensions >= 4.5.4  
+nuget System.ValueTuple >= 4.5.0  
+nuget System.ServiceModel.Http  4.10.2 lowest_matching: true
+nuget System.IO.Ports
+nuget System.IO.Pipelines >= 6.0.0
+nuget System.Reactive
+nuget System.Net.Sockets
+nuget System.Runtime
+nuget System.Drawing.Common
+nuget System.Security.Cryptography.Algorithms 4.3.1
+
+nuget Microsoft.Extensions.Logging 8.0.0 lowest_matching: true
+nuget Microsoft.Extensions.Logging.Abstractions 8.0.0 lowest_matching: true
+nuget Microsoft.Extensions.Hosting 8.0.0 lowest_matching: true
+nuget Microsoft.Extensions.Hosting.Abstractions 8.0.0 lowest_matching: true
+nuget Microsoft.Extensions.Options 8.0.0 lowest_matching: true
+nuget Microsoft.Extensions.Options.ConfigurationExtensions 8.0 lowest_matching: true
+nuget Microsoft.Extensions.Http 8.0  lowest_matching: true
+nuget Microsoft.AspNetCore.DataProtection 8.0 lowest_matching: true
+
+nuget Microsoft.Win32.Registry >= 5.0.0   
+nuget Microsoft.Xaml.Behaviors.Wpf  >= 1.1.39  
+nuget Microsoft.Web.WebView2
+
+nuget MahApps.Metro 2.0.0  
+nuget MaterialDesignColors 2.1.4  
+nuget MaterialDesignThemes 4.9.0  
+nuget MaterialDesignThemes.MahApps 0.3.0 
+
+nuget MediatR 9.0.0 
+nuget MediatR.Extensions.Microsoft.DependencyInjection 9.0.0 
+
+nuget Newtonsoft.Json
+
+nuget ReactiveUI >= 19.5.41
+nuget ReactiveUI.Fody >= 19.5.41 
+nuget ReactiveUI.WPF >= 19.5.41
+nuget ReactiveUI.Validation >= 3.1.7
+nuget Splat >= 14.8.12  
+
+nuget Swashbuckle.AspNetCore
+nuget Swashbuckle.AspNetCore.Newtonsoft
+
+nuget Serilog
+nuget Serilog.AspNetCore
+nuget Serilog.Sinks.File
+nuget Serilog.Sinks.Console
+
+nuget Refit
+nuget Refit.HttpClientFactory
+nuget Refit.Newtonsoft.Json
+
+nuget Itminus.FSharpExtensions >= 0.1.7
+nuget Itminus.FunFlows >= 0.7.18 
+nuget Itminus.FunFlows.Storages.EFCoreStore >= 0.7.18 
+nuget Itminus.Middleware >= 0.5.0
+nuget Itminus.ZLanLibs >= 0.1.0
+nuget Itminus.IOBox.Hjzk
+
+nuget FutureTech.Protocols 0.5.2
+nuget StdUnit.Sharp7.Options >= 0.6.3
+nuget Stdunit.One >= 0.2.20 lowest_matching: true
+nuget Stdunit.One.DAL >= 0.2.20 lowest_matching: true
+nuget Stdunit.One.Shared >= 0.2.20 lowest_matching: true
+nuget Stdunit.One.WebApi >= 0.2.20 lowest_matching: true
+
+nuget Catl.HostComputer.CommonServices ~> 0.2.0
+nuget Catl.HostComputer.Commons.Wpf ~> 0.2.0

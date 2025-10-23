@@ -1,0 +1,128 @@
+﻿<UserControl
+    x:Class="VisDummy.VMs.Views.GlobalParamsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:lang="clr-namespace:VisDummy.Lang;assembly=VisDummy.Lang"
+    xmlns:local="clr-namespace:VisDummy.VMs.Views"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:params="clr-namespace:VisDummy.Abstractions.VmSolutionParams;assembly=VisDummy.Abstractions"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <ObjectDataProvider
+            x:Key="SolutionParamEnum"
+            MethodName="GetValues"
+            ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="params:SolutionParamEnum" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="6*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.Resources>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="FontFamily" Value="NSimSun" />
+                <Setter Property="HorizontalAlignment" Value="Left" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="Width" Value="400" />
+            </Style>
+
+            <Style TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="HorizontalAlignment" Value="Right" />
+                <Setter Property="FontFamily" Value="NSimSun" />
+            </Style>
+        </Grid.Resources>
+
+        <GroupBox
+            Grid.Row="1"
+            FontSize="18"
+            Header="{Binding [全局变量], Source={x:Static lang:LanguageManager.Instance}}">
+            <DataGrid
+                x:Name="list"
+                Margin="20,0,40,0"
+                HorizontalAlignment="Left"
+                AutoGenerateColumns="False"
+                CanUserAddRows="True"
+                CanUserDeleteRows="True"
+                SelectionUnit="FullRow">
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="Background" Value="#E1F1FF" />
+                        <Setter Property="Foreground" Value="#000" />
+                        <Setter Property="FontSize" Value="18" />
+                        <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        <Setter Property="MinWidth" Value="200" />
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.CellStyle>
+                    <Style TargetType="DataGridCell">
+                        <Setter Property="FontSize" Value="18" />
+                        <Setter Property="FontFamily" Value="NSimSun" />
+                    </Style>
+                </DataGrid.CellStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Name}" Header="{Binding [名称], Source={x:Static lang:LanguageManager.Instance}}" />
+                    <DataGridTextColumn Binding="{Binding Value}" Header="{Binding [值], Source={x:Static lang:LanguageManager.Instance}}" />
+                    <DataGridComboBoxColumn
+                        Header="{Binding [类型], Source={x:Static lang:LanguageManager.Instance}}"
+                        ItemsSource="{Binding Source={StaticResource SolutionParamEnum}}"
+                        SelectedItemBinding="{Binding Type}">
+                        <DataGridComboBoxColumn.EditingElementStyle>
+                            <Style TargetType="ComboBox">
+                                <Setter Property="ItemContainerStyle">
+                                    <Setter.Value>
+                                        <Style TargetType="ComboBoxItem">
+                                            <Setter Property="Foreground" Value="Black" />
+                                            <Setter Property="Background" Value="White" />
+                                        </Style>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </DataGridComboBoxColumn.EditingElementStyle>
+                    </DataGridComboBoxColumn>
+                    <DataGridTemplateColumn Width="300">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border Padding="5" Background="Transparent" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </GroupBox>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Button
+                x:Name="save"
+                Width="100"
+                Height="60"
+                Margin="20"
+                Background="Salmon"
+                Content="{Binding [保存], Source={x:Static lang:LanguageManager.Instance}}"
+                FontSize="24" />
+            <Button
+                x:Name="reload"
+                Width="100"
+                Height="60"
+                Margin="20"
+                Background="OldLace"
+                Content="{Binding [刷新], Source={x:Static lang:LanguageManager.Instance}}"
+                FontSize="24"
+                Foreground="Red" />
+        </StackPanel>
+
+    </Grid>
+</UserControl>
