@@ -14,6 +14,8 @@
         public const string PLCNAME_垫片检测 = "垫片检测";
         public const string PLCNAME_模组入箱 = "模组入箱";
 		public const string PLCNAME_侧板自动拧紧 = "侧板自动拧紧";
+		public const string PLCNAME_模组转运 = "模组转运";
+		
 		
 
 	}

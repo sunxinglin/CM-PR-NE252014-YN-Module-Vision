@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisDummy.VMs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37fe222b580132597b3ad5aa689af6bbeb4edc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisDummy.VMs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisDummy.VMs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

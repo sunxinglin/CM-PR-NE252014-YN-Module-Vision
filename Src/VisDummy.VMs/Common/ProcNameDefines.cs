@@ -368,4 +368,113 @@
 
         #endregion
     }
+
+	public static class Procedure转运相机1工位_Defines
+	{
+		public const string 流程名 = "抓取机器人相机";
+
+		#region 流程输出参数
+
+		public const string Batch = "料号";
+		public const string ModuleCode = "模组码";
+		public const string Function = "功能号";
+		public const string Position = "拍照位置";
+		public const string InputX = "X坐标";
+		public const string InputY = "Y坐标";
+		public const string InputZ = "Z坐标";
+		public const string InputA = "A坐标";
+		public const string UID = "托盘号";
+
+		#endregion
+
+		#region 流程输入参数
+
+		public const string PositionX = "X偏移量";
+		public const string PositionY = "Y偏移量";
+		public const string PositionZ = "Z偏移量";
+		public const string PositionA = "A偏移量";
+		public const string PositionX1 = "X1偏移量";
+		public const string PositionY1 = "Y1偏移量";
+		public const string PositionA1 = "A1偏移量";
+		public const string PLCNG = "PLC参数NG";
+		public const string TZDNG = "特征点NG";
+		public const string LCNG = "流程NG";
+		public const string QTNG = "其他NG";
+		public const string Status = "总输出状态";
+		public const string ImagePath = "图像路径";
+
+		#endregion
+	}
+
+	public static class Procedure转运相机2工位_Defines
+	{
+		public const string 流程名 = "工位2相机";
+
+		#region 流程输出参数
+
+		public const string Batch = "料号";
+		public const string ModuleCode = "模组码";
+		public const string Function = "功能号";
+		public const string Position = "拍照位置";
+		public const string InputX = "X坐标";
+		public const string InputY = "Y坐标";
+		public const string InputZ = "Z坐标";
+		public const string InputA = "A坐标";
+		public const string UID = "托盘号";
+
+		#endregion
+
+		#region 流程输入参数
+
+		public const string PositionX = "X偏移量";
+		public const string PositionY = "Y偏移量";
+		public const string PositionZ = "Z偏移量";
+		public const string PositionA = "A偏移量";
+		public const string PositionX1 = "X1偏移量";
+		public const string PositionY1 = "Y1偏移量";
+		public const string PositionA1 = "A1偏移量";
+		public const string PLCNG = "PLC参数NG";
+		public const string TZDNG = "特征点NG";
+		public const string LCNG = "流程NG";
+		public const string QTNG = "其他NG";
+		public const string Status = "总输出状态";
+		public const string ImagePath = "图像路径";
+
+		#endregion
+	}
+
+	public static class Procedure转运相机3工位_Defines
+	{
+		public const string 流程名 = "极性检测";
+
+		#region 流程输出参数
+
+		public const string Batch = "料号";
+		public const string ModuleCode = "模组码";
+		public const string Function = "功能号";
+		public const string Position = "拍照位置";
+		public const string InputX = "X坐标";
+		public const string InputY = "Y坐标";
+		public const string InputZ = "Z坐标";
+		public const string InputA = "A坐标";
+		public const string UID = "托盘号";
+
+		#endregion
+
+		#region 流程输入参数
+
+		public const string PositionX = "X偏移量";
+		public const string PositionY = "Y偏移量";
+		public const string PositionZ = "Z偏移量";
+		public const string PositionA = "A偏移量";
+		public const string PLCNG = "PLC参数NG";
+		public const string TZDNG = "特征点NG";
+		public const string LCNG = "流程NG";
+		public const string QTNG = "其他NG";
+		public const string Status = "总输出状态";
+		public const string ImagePath = "图像路径";
+		public const string Polarity = "极性正负极";
+
+		#endregion
+	}
 }

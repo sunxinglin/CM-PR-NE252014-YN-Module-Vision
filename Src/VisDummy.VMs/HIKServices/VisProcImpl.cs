@@ -5,6 +5,7 @@ using ReactiveUI;
 using Splat;
 using System;
 using System.Collections.Generic;
+using System.IO.Ports;
 using System.Linq;
 using System.Reactive.Linq;
 using System.Threading.Tasks;
@@ -14,6 +15,7 @@ using VisDummy.Abstractions.Infra;
 using VisDummy.Abstractions.Warp;
 using VisDummy.Abstractions.Warp.人工位;
 using VisDummy.Abstractions.Warp.侧板自动拧紧;
+using VisDummy.Abstractions.Warp.模组转运;
 using VisDummy.Abstractions.Warp.水冷板抓取;
 using VisDummy.Lang.Resources;
 using VisDummy.Shared.Utils;
@@ -1006,8 +1008,234 @@ namespace VisDummy.VMs.HIKServices
             return err.ToErrResult<StationOkWrap_侧板自动拧紧, StationErrWrap_侧板自动拧紧>();
         }
 
+		public async Task<FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运>> 模组转运机器人1相机ProcAsync(StationArgs args, CamModelInput model)
+		{
+			VmProcedure proc = await LoadProcAsync(Procedure转运相机1工位_Defines.流程名);
+			if (proc == null)
+			{
+				var micerr = new StationErrWrap_模组转运() { ErrMsg = $"{Language.Msg_加载流程失败}:{Procedure转运相机1工位_Defines.流程名}" };
+				return micerr.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
 
-        public async Task<FSharpResult<Dictionary<string, bool>, string>> GetCameraStatus()
+			proc.ModuParams.SetInputFloat(Procedure转运相机1工位_Defines.InputX, [model.PositionX]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机1工位_Defines.InputY, [model.PositionY]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机1工位_Defines.InputZ, [model.PositionZ]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机1工位_Defines.InputA, [model.PositionA]);
+			proc.ModuParams.SetInputInt(Procedure转运相机1工位_Defines.Batch, [(int)args.Batch]);
+			proc.ModuParams.SetInputString(Procedure转运相机1工位_Defines.ModuleCode, [new InputStringData { strValue = model.ModuleCode }]);
+			proc.ModuParams.SetInputInt(Procedure转运相机1工位_Defines.Function, [(int)args.Function]);
+			proc.ModuParams.SetInputInt(Procedure转运相机1工位_Defines.Position, [(int)args.Position]);
+
+			proc.Run();
+
+			var mres = proc.ModuResult;
+
+			var s =
+				 from PositionX in mres.GetFloat(Procedure转运相机1工位_Defines.PositionX)
+				 from PositionY in mres.GetFloat(Procedure转运相机1工位_Defines.PositionY)
+				 from PositionZ in mres.GetFloat(Procedure转运相机1工位_Defines.PositionZ)
+				 from PositionA in mres.GetFloat(Procedure转运相机1工位_Defines.PositionA)
+
+				 from PositionX1 in mres.GetFloat(Procedure转运相机1工位_Defines.PositionX1)
+				 from PositionY1 in mres.GetFloat(Procedure转运相机1工位_Defines.PositionY1)
+				 from PositionA1 in mres.GetFloat(Procedure转运相机1工位_Defines.PositionA1)
+
+				 from PLCNG in mres.GetInt(Procedure转运相机1工位_Defines.PLCNG)
+				 from TZDNG in mres.GetInt(Procedure转运相机1工位_Defines.TZDNG)
+				 from LCNG in mres.GetInt(Procedure转运相机1工位_Defines.LCNG)
+				 from QTNG in mres.GetInt(Procedure转运相机1工位_Defines.QTNG)
+
+
+				 from ImagePath in mres.GetString(Procedure转运相机1工位_Defines.ImagePath)
+				 from Status in mres.GetInt(Procedure转运相机1工位_Defines.Status)
+				 select new { ImagePath, PositionX, PositionY, PositionZ, PositionA, PositionX1, PositionY1, PositionA1, PLCNG, TZDNG, LCNG, QTNG, Status };
+
+			if (s.IsError)
+			{
+				var micerr = new StationErrWrap_模组转运() { ErrMsg = s.ErrorValue, ErrorCode = 1, Flag = false };
+				return micerr.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
+			var outputs = s.ResultValue;
+			if (outputs.Status == 1)
+			{
+				var ok = new StationOkWrap_模组转运
+				{
+					ImagePath = s.ResultValue.ImagePath,
+					PositionA = s.ResultValue.PositionA,
+					PositionX = s.ResultValue.PositionX,
+					PositionY = s.ResultValue.PositionY,
+					PositionZ = s.ResultValue.PositionZ,
+
+					PositionA1 = s.ResultValue.PositionA1,
+				    PositionX1 = s.ResultValue.PositionX1,
+				    PositionY1 = s.ResultValue.PositionY1,
+
+					Status = s.ResultValue.Status
+				};
+				return ok.ToOkResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
+			var err = new StationErrWrap_模组转运()
+			{
+				ImagePath = outputs.ImagePath,
+				ErrorCode = (uint)outputs.Status,
+				特征点NG = s.ResultValue.LCNG == 1,
+				PLC参数NG = s.ResultValue.PLCNG == 1,
+				其它NG = s.ResultValue.QTNG == 1,
+				视觉检测流程NG = s.ResultValue.LCNG == 1
+			};
+			return err.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+		}
+
+		public async Task<FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运>> 模组转运机器人2相机ProcAsync(StationArgs args, CamModelInput model)
+		{
+			VmProcedure proc = await LoadProcAsync(Procedure转运相机2工位_Defines.流程名);
+			if (proc == null)
+			{
+				var micerr = new StationErrWrap_模组转运() { ErrMsg = $"{Language.Msg_加载流程失败}:{Procedure转运相机2工位_Defines.流程名}" };
+				return micerr.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
+
+			proc.ModuParams.SetInputFloat(Procedure转运相机2工位_Defines.InputX, [model.PositionX]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机2工位_Defines.InputY, [model.PositionY]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机2工位_Defines.InputZ, [model.PositionZ]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机2工位_Defines.InputA, [model.PositionA]);
+			proc.ModuParams.SetInputInt(Procedure转运相机2工位_Defines.Batch, [(int)args.Batch]);
+			proc.ModuParams.SetInputString(Procedure转运相机2工位_Defines.ModuleCode, [new InputStringData { strValue = model.ModuleCode }]);
+			proc.ModuParams.SetInputInt(Procedure转运相机2工位_Defines.Function, [(int)args.Function]);
+			proc.ModuParams.SetInputInt(Procedure转运相机2工位_Defines.Position, [(int)args.Position]);
+
+			proc.Run();
+
+			var mres = proc.ModuResult;
+
+			var s =
+				 from PositionX in mres.GetFloat(Procedure转运相机2工位_Defines.PositionX)
+				 from PositionY in mres.GetFloat(Procedure转运相机2工位_Defines.PositionY)
+				 from PositionZ in mres.GetFloat(Procedure转运相机2工位_Defines.PositionZ)
+				 from PositionA in mres.GetFloat(Procedure转运相机2工位_Defines.PositionA)
+
+				 from PositionX1 in mres.GetFloat(Procedure转运相机2工位_Defines.PositionX1)
+				 from PositionY1 in mres.GetFloat(Procedure转运相机2工位_Defines.PositionY1)
+				 from PositionA1 in mres.GetFloat(Procedure转运相机2工位_Defines.PositionA1)
+
+				 from PLCNG in mres.GetInt(Procedure转运相机2工位_Defines.PLCNG)
+				 from TZDNG in mres.GetInt(Procedure转运相机2工位_Defines.TZDNG)
+				 from LCNG in mres.GetInt(Procedure转运相机2工位_Defines.LCNG)
+				 from QTNG in mres.GetInt(Procedure转运相机2工位_Defines.QTNG)
+
+
+				 from ImagePath in mres.GetString(Procedure转运相机2工位_Defines.ImagePath)
+				 from Status in mres.GetInt(Procedure转运相机2工位_Defines.Status)
+				 select new { ImagePath, PositionX, PositionY, PositionZ, PositionA, PositionX1, PositionY1, PositionA1, PLCNG, TZDNG, LCNG, QTNG, Status };
+
+			if (s.IsError)
+			{
+				var micerr = new StationErrWrap_模组转运() { ErrMsg = s.ErrorValue, ErrorCode = 1, Flag = false };
+				return micerr.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
+			var outputs = s.ResultValue;
+			if (outputs.Status == 1)
+			{
+				var ok = new StationOkWrap_模组转运
+				{
+					ImagePath = s.ResultValue.ImagePath,
+					PositionA = s.ResultValue.PositionA,
+					PositionX = s.ResultValue.PositionX,
+					PositionY = s.ResultValue.PositionY,
+					PositionZ = s.ResultValue.PositionZ,
+
+					PositionA1 = s.ResultValue.PositionA1,
+					PositionX1 = s.ResultValue.PositionX1,
+					PositionY1 = s.ResultValue.PositionY1,
+
+					Status = s.ResultValue.Status
+				};
+				return ok.ToOkResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+			}
+			var err = new StationErrWrap_模组转运()
+			{
+				ImagePath = outputs.ImagePath,
+				ErrorCode = (uint)outputs.Status,
+				特征点NG = s.ResultValue.LCNG == 1,
+				PLC参数NG = s.ResultValue.PLCNG == 1,
+				其它NG = s.ResultValue.QTNG == 1,
+				视觉检测流程NG = s.ResultValue.LCNG == 1
+			};
+			return err.ToErrResult<StationOkWrap_模组转运, StationErrWrap_模组转运>();
+		}
+
+		public async Task<FSharpResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>> 模组转运机器人3相机ProcAsync(StationArgs args, CamModelInput model)
+		{
+			VmProcedure proc = await LoadProcAsync(Procedure侧板相机3工位_Defines.流程名);
+			if (proc == null)
+			{
+				var micerr = new StationErrWrap_模组转运相机3() { ErrMsg = $"{Language.Msg_加载流程失败}:{Procedure侧板相机3工位_Defines.流程名}" };
+				return micerr.ToErrResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>();
+			}
+
+			proc.ModuParams.SetInputFloat(Procedure转运相机3工位_Defines.InputX, [model.PositionX]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机3工位_Defines.InputY, [model.PositionY]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机3工位_Defines.InputZ, [model.PositionZ]);
+			proc.ModuParams.SetInputFloat(Procedure转运相机3工位_Defines.InputA, [model.PositionA]);
+			proc.ModuParams.SetInputInt(Procedure转运相机3工位_Defines.Batch, [(int)args.Batch]);
+			proc.ModuParams.SetInputString(Procedure转运相机3工位_Defines.ModuleCode, [new InputStringData { strValue = model.ModuleCode }]);
+			proc.ModuParams.SetInputInt(Procedure转运相机3工位_Defines.Function, [(int)args.Function]);
+			proc.ModuParams.SetInputInt(Procedure转运相机3工位_Defines.Position, [(int)args.Position]);
+
+			proc.Run();
+
+			var mres = proc.ModuResult;
+
+			var s =
+				 from PositionX in mres.GetFloat(Procedure转运相机3工位_Defines.PositionX)
+				 from PositionY in mres.GetFloat(Procedure转运相机3工位_Defines.PositionY)
+				 from PositionZ in mres.GetFloat(Procedure转运相机3工位_Defines.PositionZ)
+				 from PositionA in mres.GetFloat(Procedure转运相机3工位_Defines.PositionA)
+
+				 from PLCNG in mres.GetInt(Procedure转运相机3工位_Defines.PLCNG)
+				 from TZDNG in mres.GetInt(Procedure转运相机3工位_Defines.TZDNG)
+				 from LCNG in mres.GetInt(Procedure转运相机3工位_Defines.LCNG)
+				 from QTNG in mres.GetInt(Procedure转运相机3工位_Defines.QTNG)
+
+				 from Polarity in mres.GetString(Procedure转运相机3工位_Defines.Polarity)
+				 from ImagePath in mres.GetString(Procedure转运相机3工位_Defines.ImagePath)
+				 from Status in mres.GetInt(Procedure转运相机3工位_Defines.Status)
+				 select new { ImagePath, PositionX, PositionY, PositionZ, PositionA, PLCNG, TZDNG, LCNG, QTNG, Status, Polarity };
+
+			if (s.IsError)
+			{
+				var micerr = new StationErrWrap_模组转运相机3() { ErrMsg = s.ErrorValue, ErrorCode = 1, Flag = false };
+				return micerr.ToErrResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>();
+			}
+			var outputs = s.ResultValue;
+			if (outputs.Status == 1)
+			{
+				var ok = new StationOkWrap_模组转运相机3
+				{
+					ImagePath = s.ResultValue.ImagePath,
+					PositionA = s.ResultValue.PositionA,
+					PositionX = s.ResultValue.PositionX,
+					PositionY = s.ResultValue.PositionY,
+					PositionZ = s.ResultValue.PositionZ,
+					Status = s.ResultValue.Status,
+					Polarity = s.ResultValue.Polarity,
+				};
+				return ok.ToOkResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>();
+			}
+			var err = new StationErrWrap_模组转运相机3()
+			{
+				ImagePath = outputs.ImagePath,
+				ErrorCode = (uint)outputs.Status,
+				特征点NG = s.ResultValue.LCNG == 1,
+				PLC参数NG = s.ResultValue.PLCNG == 1,
+				其它NG = s.ResultValue.QTNG == 1,
+				视觉检测流程NG = s.ResultValue.LCNG == 1
+			};
+			return err.ToErrResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>();
+		}
+
+
+		public async Task<FSharpResult<Dictionary<string, bool>, string>> GetCameraStatus()
 		{
 			try
 			{
