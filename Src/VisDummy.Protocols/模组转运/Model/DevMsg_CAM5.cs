@@ -1,23 +1,19 @@
-﻿using FutureTech.Protocols;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-using VisDummy.Protocols.Common;
 using VisDummy.Protocols.Common.Model;
 
 namespace VisDummy.Protocols.模组转运.Model
 {
 	[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-	public class DevMsg_CAM1
+	public class DevMsg_CAM5
 	{
 		public Dev_Side Flag;
 
-		public String48 RFID;
-
-		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 28)]
+		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 38)]
 		public byte[] __reserved;
 	}
 }

@@ -21,6 +21,8 @@ namespace VisDummy.Protocols.模组转运
                 .Use<HandleCAM1Middleware>()
 				.Use<HandleCAM4Middleware>()
 				.Use<HandleCAM2Middleware>()
+				.Use<HandleCAM4Middleware>()
+				.Use<HandleCAM5Middleware>()
 				.Use<HandleCAM3Middleware>()
 				//.Use<HandleStation2DSpotMiddleware>()
 			#endregion

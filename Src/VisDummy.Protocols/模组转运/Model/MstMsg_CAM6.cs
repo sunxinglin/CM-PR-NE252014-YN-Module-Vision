@@ -5,7 +5,7 @@ using VisDummy.Protocols.Common.Model;
 namespace VisDummy.Protocols.模组转运.Model
 {
 	[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-	public class MstMsg_CAM2
+	public class MstMsg_CAM6
 	{
 		public Mst_SideReplyFlag Flag;
 
@@ -43,7 +43,7 @@ namespace VisDummy.Protocols.模组转运.Model
 		public float A1;
 
 
-		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 66)]
+		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 374)]
 		public byte[] __reserved;
 
 

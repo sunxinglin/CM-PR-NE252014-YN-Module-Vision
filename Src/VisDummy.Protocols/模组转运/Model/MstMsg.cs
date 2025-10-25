@@ -14,7 +14,11 @@ namespace VisDummy.Protocols.模组转运.Model
 
 		public MstMsg_CAM2 CAM2;
 
-        public MstMsg_CAM3 CAM3;
+		public MstMsg_CAM5 CAM5;
+
+		public MstMsg_CAM6 CAM6;
+
+		public MstMsg_CAM3 CAM3;
 
 		
 	}

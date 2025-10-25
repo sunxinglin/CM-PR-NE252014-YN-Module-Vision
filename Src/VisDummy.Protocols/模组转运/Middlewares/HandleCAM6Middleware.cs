@@ -16,18 +16,18 @@ using VisDummy.Protocols.模组转运.Model;
 
 namespace VisDummy.Protocols.模组转运.Middlewares
 {
-	public class HandleCAM3Middleware(
+	public class HandleCAM6Middleware(
 		模组转运Flusher flusher,
 		IVisProc visproc,
 		IVisParams visParams,
-		ILogger<HandlePlcRequestMiddlewareBase<DevMsg_CAM3, MstMsg_CAM3, StationArgs, StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>> logger,
+		ILogger<HandlePlcRequestMiddlewareBase<DevMsg_CAM6, MstMsg_CAM6, StationArgs, StationOkWrap_模组转运, StationErrWrap_模组转运>> logger,
 		IMediator mediator) :
 		HandlePlcRequestMiddlewareBase<
-			DevMsg_CAM3,
-			MstMsg_CAM3,
+			DevMsg_CAM6,
+			MstMsg_CAM6,
 			StationArgs,
-			StationOkWrap_模组转运相机3,
-			StationErrWrap_模组转运相机3
+			StationOkWrap_模组转运,
+			StationErrWrap_模组转运
 			>(flusher, logger, mediator)
 	{
 		public override string PlcName => PlcNames.PLCNAME_模组转运;
@@ -35,15 +35,15 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 
 		public override string ProcName => Language.Msg_正常工作拍照 + "1";
 
-		public override bool HasAck(MstMsg_CAM3 p) => p.Ready;
+		public override bool HasAck(MstMsg_CAM6 p) => p.Ready;
 
 
-		public override bool HasReq(DevMsg_CAM3 i) => i.Req;
+		public override bool HasReq(DevMsg_CAM6 i) => i.Flag.Req;
 
-		public override DevMsg_CAM3 RefIncoming(ScanContext ctx) => ctx.DevMsg.CAM3;
+		public override DevMsg_CAM6 RefIncoming(ScanContext ctx) => ctx.DevMsg.CAM6;
 
 
-		public override MstMsg_CAM3 RefPending(ScanContext ctx) => ctx.MstMsg.CAM3;
+		public override MstMsg_CAM6 RefPending(ScanContext ctx) => ctx.MstMsg.CAM6;
 
 
 		public string ModuleCode { get; set; }
@@ -52,7 +52,7 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 		public float PositionZ { get; set; }
 		public float PositionA { get; set; }
 
-		protected override async Task<FSharpResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>> HandleArgsAsync(StationArgs args)
+		protected override async Task<FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运>> HandleArgsAsync(StationArgs args)
 		{
 			CamModelInput camModelInput = new CamModelInput()
 			{
@@ -68,20 +68,20 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 
 			await RecordLogAsync(LogLevel.Information, $"{ProcName}:{Language.Msg_视觉输入参数}：{args.ToMsg()}");
 			var res = from r1 in visParams.SetTriggerGlobalParams()
-					  .SelectError(s => new StationErrWrap_模组转运相机3 { ErrMsg = s })
-					  from r2 in visproc.模组转运机器人3相机ProcAsync(args, camModelInput)
+					  .SelectError(s => new StationErrWrap_模组转运 { ErrMsg = s })
+					  from r2 in visproc.模组转运机器人2相机ProcAsync(args, camModelInput)
 					  select r2;
 			return await res;
 		}
 
-        protected override async Task HandleErrAsync(MstMsg_CAM3 pending, StationErrWrap_模组转运相机3 err)
-        {
-            pending.ErrorCode = new Mst_SideNGFlagsBuilder(pending.errorCode).SetOn(err.特征点NG, err.视觉检测流程NG, err.其它NG, err.PLC参数NG).Build();
-            pending.Flag = new MstMsg_SideReplyFlagsBuilder(pending.Flag).SetResponseNg().Build();
+		protected override async Task HandleErrAsync(MstMsg_CAM6 pending, StationErrWrap_模组转运 err)
+		{
+			pending.ErrorCode = new Mst_SideNGFlagsBuilder(pending.errorCode).SetOn(err.特征点NG, err.视觉检测流程NG, err.其它NG, err.PLC参数NG).Build();
+			pending.Flag = new MstMsg_SideReplyFlagsBuilder(pending.Flag).SetResponseNg().Build();
             await RecordLogAsync(LogLevel.Error, $"{Language.Msg_拍照失败}：{err.ToMsg()}");
-        }
+		}
 
-        protected override async Task HandleOkAsync(MstMsg_CAM3 pending, StationOkWrap_模组转运相机3 descriptions)
+        protected override async Task HandleOkAsync(MstMsg_CAM6 pending, StationOkWrap_模组转运 descriptions)
         {
             pending.X = descriptions.PositionX;
             pending.Y = descriptions.PositionY;
@@ -92,7 +92,7 @@ namespace VisDummy.Protocols.模组转运.Middlewares
             await RecordLogAsync(LogLevel.Information, $"{Language.Msg_拍照成功}：{descriptions.ToMsg()}");
         }
 
-        protected override async Task ResetAckAsync(MstMsg_CAM3 pending)
+        protected override async Task ResetAckAsync(MstMsg_CAM6 pending)
         {
             pending.Flag = new MstMsg_SideReplyFlagsBuilder(pending.Flag).SetOff().Build();
             pending.ErrorCode = new Mst_SideNGFlagsBuilder(pending.ErrorCode).SetOff().Build();
@@ -104,20 +104,20 @@ namespace VisDummy.Protocols.模组转运.Middlewares
             await RecordLogAsync(LogLevel.Information, Language.Msg_初始化);
         }
 
-        protected override FSharpResult<StationArgs, string> TryParseArgs(DevMsg_CAM3 incoming)
+        protected override FSharpResult<StationArgs, string> TryParseArgs(DevMsg_CAM6 incoming)
 		{
 			var args = new StationArgs()
 			{
-				Function = incoming.FunctionNumber,
-				Position = incoming.PhotoNumben,
+				Function = incoming.Flag.FunctionNumber,
+				Position = incoming.Flag.PhotoNumben,
 			};
 			return args.ToOkResult<StationArgs, string>();
 		}
 
 		public override async Task InvokeAsync(ScanContext context, WorkDelegate<ScanContext> next)
 		{
-			DevMsg_CAM3 incoming = RefIncoming(context);
-			MstMsg_CAM3 pending = RefPending(context);
+			DevMsg_CAM6 incoming = RefIncoming(context);
+			MstMsg_CAM6 pending = RefPending(context);
 			bool skipNext = false;
 			try
 			{
@@ -129,12 +129,12 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 					{
 						StationArgs resultValue = fSharpResult.ResultValue;
 						this.ModuleCode = context.DevMsg.Heart.ModelCode1.Content;
-						this.PositionX = context.DevMsg.CAM3.PositionX;
-						this.PositionY = context.DevMsg.CAM3.PositionY;
-						this.PositionZ = context.DevMsg.CAM3.PositionZ;
-						this.PositionA = context.DevMsg.CAM3.PositionA;
-
-						FSharpResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3> fSharpResult2 = await HandleArgsAsync(resultValue);
+						this.PositionX = context.DevMsg.CAM6.Flag.PositionX;
+						this.PositionY = context.DevMsg.CAM6.Flag.PositionY;
+						this.PositionZ = context.DevMsg.CAM6.Flag.PositionZ;
+						this.PositionA = context.DevMsg.CAM6.Flag.PositionA;
+						
+						FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运> fSharpResult2 = await HandleArgsAsync(resultValue);
 						if (!fSharpResult2.IsError)
 						{
 							await HandleOkAsync(pending, fSharpResult2.ResultValue);
