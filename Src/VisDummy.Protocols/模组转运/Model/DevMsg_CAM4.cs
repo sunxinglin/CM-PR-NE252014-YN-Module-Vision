@@ -9,11 +9,11 @@ using VisDummy.Protocols.Common.Model;
 namespace VisDummy.Protocols.模组转运.Model
 {
 	[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-	public class DevMsg_CAM1
+	public class DevMsg_CAM4
 	{
 		public Dev_Side Flag;
 
-		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 28)]
+		[MarshalAs(UnmanagedType.ByValArray, ArraySubType = UnmanagedType.U1, SizeConst = 78)]
 		public byte[] __reserved;
 	}
 }

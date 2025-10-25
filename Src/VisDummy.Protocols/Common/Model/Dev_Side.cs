@@ -31,8 +31,6 @@ namespace VisDummy.Protocols.Common.Model
 		[Endian(Endianness.BigEndian)]
 		public float PositionA;
 
-		public String48 RFID;
-
 		public bool Req => this.PhotoREQ.HasFlag(Dev_PhotoREQFlag.REQ);
 	}
 

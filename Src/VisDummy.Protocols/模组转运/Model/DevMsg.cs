@@ -10,8 +10,12 @@ namespace VisDummy.Protocols.模组转运.Model
 
 		public DevMsg_CAM1 CAM1;
 
+		public DevMsg_CAM4 CAM4;
+
 		public DevMsg_CAM2 CAM2;
 
 		public DevMsg_CAM3 CAM3;
+
+		
 	}
 }

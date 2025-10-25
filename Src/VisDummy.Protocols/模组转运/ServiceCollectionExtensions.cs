@@ -25,6 +25,7 @@ namespace VisDummy.Protocols.模组转运
             services.AddScoped<FlushPendingMiddleware>();
 
             services.AddScoped<HandleCAM1Middleware>();
+			services.AddScoped<HandleCAM4Middleware>();
 			services.AddScoped<HandleCAM2Middleware>();
 			services.AddScoped<HandleCAM3Middleware>();
 			//services.AddScoped<HandleStation2DSpotMiddleware>();

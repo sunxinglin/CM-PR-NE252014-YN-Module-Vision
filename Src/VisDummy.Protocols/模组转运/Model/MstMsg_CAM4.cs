@@ -5,7 +5,7 @@ using VisDummy.Protocols.Common.Model;
 namespace VisDummy.Protocols.模组转运.Model
 {
 	[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
-	public class MstMsg_CAM1
+	public class MstMsg_CAM4
 	{
 		public Mst_SideReplyFlag Flag;
 

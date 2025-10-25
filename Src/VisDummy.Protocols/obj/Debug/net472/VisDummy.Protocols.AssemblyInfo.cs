@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisDummy.Protocols")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37fe222b580132597b3ad5aa689af6bbeb4edc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59083df3f155fedf8b24ceff6cf210bb9409967d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisDummy.Protocols")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisDummy.Protocols")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
