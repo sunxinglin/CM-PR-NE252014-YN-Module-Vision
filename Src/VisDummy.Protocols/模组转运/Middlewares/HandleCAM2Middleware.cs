@@ -38,7 +38,7 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 		public override bool HasAck(MstMsg_CAM2 p) => p.Ready;
 
 
-		public override bool HasReq(DevMsg_CAM2 i) => i.Flag.Req;
+		public override bool HasReq(DevMsg_CAM2 i) => i.Req;
 
 		public override DevMsg_CAM2 RefIncoming(ScanContext ctx) => ctx.DevMsg.CAM2;
 
@@ -108,8 +108,8 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 		{
 			var args = new StationArgs()
 			{
-				Function = incoming.Flag.FunctionNumber,
-				Position = incoming.Flag.PhotoNumben,
+				Function = incoming.FunctionNumber,
+				Position = incoming.PhotoNumben,
 			};
 			return args.ToOkResult<StationArgs, string>();
 		}
@@ -128,11 +128,11 @@ namespace VisDummy.Protocols.模组转运.Middlewares
 					if (fSharpResult.IsOk)
 					{
 						StationArgs resultValue = fSharpResult.ResultValue;
-						this.ModuleCode = context.DevMsg.Heart.ModelCode2.Content;
-						this.PositionX = context.DevMsg.CAM2.Flag.PositionX;
-						this.PositionY = context.DevMsg.CAM2.Flag.PositionY;
-						this.PositionZ = context.DevMsg.CAM2.Flag.PositionZ;
-						this.PositionA = context.DevMsg.CAM2.Flag.PositionA;
+						this.ModuleCode = context.DevMsg.Heart.ModelCode1.Content;
+						this.PositionX = context.DevMsg.CAM2.PositionX;
+						this.PositionY = context.DevMsg.CAM2.PositionY;
+						this.PositionZ = context.DevMsg.CAM2.PositionZ;
+						this.PositionA = context.DevMsg.CAM2.PositionA;
 						
 						FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运> fSharpResult2 = await HandleArgsAsync(resultValue);
 						if (!fSharpResult2.IsError)
