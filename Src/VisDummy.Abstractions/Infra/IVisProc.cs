@@ -82,7 +82,7 @@ namespace VisDummy.Abstractions.Infra
 
 		Task<FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运>> 模组转运机器人2相机ProcAsync(StationArgs args, CamModelInput model);
 
-		Task<FSharpResult<StationOkWrap_模组转运, StationErrWrap_模组转运>> 模组转运机器人3相机ProcAsync(StationArgs args, CamModelInput model);
+		Task<FSharpResult<StationOkWrap_模组转运相机3, StationErrWrap_模组转运相机3>> 模组转运机器人3相机ProcAsync(StationArgs args, CamModelInput model);
 
 		Task<FSharpResult<Dictionary<string, bool>, string>> GetCameraStatus();
     }
